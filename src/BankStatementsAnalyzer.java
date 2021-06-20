@@ -10,6 +10,11 @@ import java.util.Collections;
 import java.util.List;
 
 public class BankStatementsAnalyzer {
+    final BankTransactionCSVParser bankStatementParser = new BankTransactionCSVParser();
+
+    BankStatementsAnalyzer() {
+
+    }
 
     public List<String> getResourcesLinesList() {
         try {

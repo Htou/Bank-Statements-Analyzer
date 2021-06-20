@@ -39,10 +39,12 @@ public class BankTransaction {
 
             return true;
         }
+
         if (o == null || getClass() != o.getClass()) {
 
             return false;
         }
+
         BankTransaction that = (BankTransaction) o;
 
         return Double.compare(that.amount, amount) == 0
