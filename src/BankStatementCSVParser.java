@@ -3,11 +3,10 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 
-public class BankTransactionCSVParser {
+public class BankStatementCSVParser {
     private static final DateTimeFormatter DATE_PATTERN = DateTimeFormatter.ofPattern("dd-MM-yyyy");
 
-    BankTransactionCSVParser(){
-
+    BankStatementCSVParser() {
     }
 
     private BankTransaction parseFromCSV(final String line) {
@@ -22,7 +21,7 @@ public class BankTransactionCSVParser {
     public List<BankTransaction> parseLinesFromCSV(final List<String> lines) {
         final List<BankTransaction> bankTransactions = new ArrayList<>();
 
-        for(final String line: lines) {
+        for (final String line : lines) {
             bankTransactions.add(parseFromCSV(line));
         }
 
