@@ -12,7 +12,7 @@ public class BankStatementsResources {
     public BankStatementsResources() {
     }
 
-    public static String getRESOURCES() {
+    public String getRESOURCES() {
         return RESOURCES;
     }
 
