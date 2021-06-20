@@ -2,8 +2,9 @@
 
 public class Main {
     public static void main(final String... args) {
-        BankStatementAnalyzer analyzer = new BankStatementAnalyzer();
+        final BankStatementAnalyzer bankStatementAnalyzer = new BankStatementAnalyzer();
+        final BankStatementParser bankStatementParser = new BankStatementCSVParser();
 
-        analyzer.collectSummary();
+        bankStatementAnalyzer.analyze(bankStatementParser);
     }
 }
