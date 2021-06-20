@@ -14,8 +14,7 @@ public class BankStatementAnalyzer {
     }
 
     public void analyze(final BankStatementParser bankStatementParser) {
-        BankStatementResources resources = new BankStatementResources();
-        final List<String> lines = resources.getResourcesLinesList();
+        final List<String> lines = BankStatementResources.getResourcesLinesList();
         final List<BankTransaction> bankTransactions = bankStatementParser.parseLinesFrom(lines);
         final BankStatementProcessor bankStatementProcessor = new BankStatementProcessor(bankTransactions);
 
