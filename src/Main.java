@@ -1,9 +1,9 @@
+
+
 public class Main {
-
     public static void main(final String... args) {
-        BankStatementsAnalyzer bankStatementsAnalyzer = new BankStatementsAnalyzer();
+        BankStatementsAnalyzer analyzer = new BankStatementsAnalyzer();
 
-        bankStatementsAnalyzer.calculateTotal();
+        analyzer.collectSummary();
     }
-
 }
