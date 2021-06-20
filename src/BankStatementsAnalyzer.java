@@ -12,7 +12,7 @@ public class BankStatementsAnalyzer {
 
     public List<String> getResourcesLines() {
         try {
-            String RESOURCES = BankTransactions.getRESOURCES();
+            String RESOURCES = bankStatements.getRESOURCES();
             final Path path = Paths.get(RESOURCES);
             final List<String> lines = Files.readAllLines(path);
 

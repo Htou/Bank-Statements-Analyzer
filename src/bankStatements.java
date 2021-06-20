@@ -4,10 +4,10 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.List;
 
-public class BankTransactions {
+public class bankStatements {
     private static final String RESOURCES = "src/resources.csv";
 
-    public BankTransactions() {
+    public bankStatements() {
     }
 
     public static String getRESOURCES() {
