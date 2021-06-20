@@ -2,15 +2,14 @@ import java.time.Month;
 import java.util.List;
 
 public class BankStatementsAnalyzer {
-    private BankStatementProcessor bankStatementProcessor;
-    private List<BankTransaction> bankTransactions;
+    private final BankStatementProcessor bankStatementProcessor;
 
     BankStatementsAnalyzer() {
         BankStatementCSVParser bankStatementParser = new BankStatementCSVParser();
         BankStatementsResources resources = new BankStatementsResources();
         List<String> resourcesLinesList = resources.getResourcesLinesList();
+        List<BankTransaction> bankTransactions = bankStatementParser.parseLinesFromCSV(resourcesLinesList);
 
-        this.bankTransactions = bankStatementParser.parseLinesFromCSV(resourcesLinesList);
         this.bankStatementProcessor = new BankStatementProcessor(bankTransactions);
     }
 
