@@ -14,4 +14,5 @@ public class BankStatementsResources {
 
         return RESOURCES;
     }
+
 }
