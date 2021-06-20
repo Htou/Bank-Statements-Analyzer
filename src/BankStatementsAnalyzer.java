@@ -1,4 +1,5 @@
 
+import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -10,25 +11,24 @@ import java.util.List;
 
 public class BankStatementsAnalyzer {
 
-    public List<String> getResourcesLines() {
+    public List<String> getResourcesLinesList() {
         try {
-            String RESOURCES = bankStatements.getRESOURCES();
+            String RESOURCES = BankStatementsResources.getRESOURCES();
             final Path path = Paths.get(RESOURCES);
             final List<String> lines = Files.readAllLines(path);
 
             return lines;
 
-        } catch (Exception e) {
+        } catch (IOException e) {
             System.out.println("Error, file not found");
 
-            List<String> emptyList = Collections.<String>emptyList();
-            return emptyList;
+            return Collections.<String>emptyList();
         }
     }
 
 
     public void calculateTotal() {
-        List<String> lines = getResourcesLines();
+        List<String> lines = getResourcesLinesList();
 
         double total = 0d;
 
@@ -43,7 +43,7 @@ public class BankStatementsAnalyzer {
     }
 
     public void calculateSumJanuary() {
-        List<String> lines = getResourcesLines();
+        List<String> lines = getResourcesLinesList();
 
         double total = 0d;
         final DateTimeFormatter DATE_PATTERN = DateTimeFormatter.ofPattern("dd-MM-yyyy");
@@ -54,12 +54,12 @@ public class BankStatementsAnalyzer {
 
             if (date.getMonth() == Month.JANUARY) {
                 final double amount = Double.parseDouble(columns[1]);
+
                 total += amount;
             }
         }
 
-        System.out.println("The total for all transactions in January\n" +
-                "is" + total);
+        System.out.println("The total for all transactions in January: " + total);
     }
 
 }
