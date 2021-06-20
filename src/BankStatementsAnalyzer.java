@@ -39,7 +39,7 @@ public class BankStatementsAnalyzer {
     }
 
 
-    public void printTotalAmount( ) {
+    public void printAmount( ) {
         System.out.println("The total for all transactions is " + calculateTotalAmount(bankTransactions));
         System.out.println("Transactions in January " + selectInMonth(bankTransactions, Month.JANUARY));
     }
