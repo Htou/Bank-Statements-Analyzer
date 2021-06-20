@@ -18,8 +18,7 @@ public class BankStatementsAnalyzer {
     public static double calculateTotalAmount(final List<BankTransaction> bankTransactions) {
         double total = 0d;
 
-        for (final BankTransaction bankTransaction :
-                bankTransactions) {
+        for (final BankTransaction bankTransaction : bankTransactions) {
             total += bankTransaction.getAmount();
         }
 
