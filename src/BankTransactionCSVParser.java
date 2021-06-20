@@ -6,6 +6,10 @@ import java.util.List;
 public class BankTransactionCSVParser {
     private static final DateTimeFormatter DATE_PATTERN = DateTimeFormatter.ofPattern("dd-MM-yyyy");
 
+    BankTransactionCSVParser(){
+
+    }
+
     private BankTransaction parseFromCSV(final String line) {
         final String[] columns = line.split(",");
         final LocalDate date = LocalDate.parse(columns[0], DATE_PATTERN);
