@@ -19,6 +19,7 @@ public class BankStatementProcessor {
 
     public double calculateTotalInMonth(final Month month) {
         double total = 0;
+
         for (final BankTransaction bankTransaction : bankTransactions) {
 
             if (bankTransaction.getDate().getMonth() == month) {
