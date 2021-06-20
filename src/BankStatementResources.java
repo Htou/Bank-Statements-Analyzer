@@ -5,11 +5,11 @@ import java.nio.file.Paths;
 import java.util.Collections;
 import java.util.List;
 
-public class BankStatementsResources {
+public class BankStatementResources {
 
     private static final String RESOURCES = "src/resources.csv";
 
-    public BankStatementsResources() {
+    public BankStatementResources() {
     }
 
     public String getRESOURCES() {
