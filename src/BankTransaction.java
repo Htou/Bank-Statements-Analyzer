@@ -27,9 +27,9 @@ public class BankTransaction {
     @Override
     public String toString() {
         return "BankTransaction{" +
-                "date = " + this.date +
-                ", amount = " + this.amount +
-                ", description = '" + this.description + '\'' +
+                "date= " + this.date +
+                ", amount= " + this.amount +
+                ", description= '" + this.description + '\'' +
                 '}';
     }
 
