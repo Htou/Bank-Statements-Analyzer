@@ -1,3 +1,5 @@
+package Main;
+
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -7,7 +9,7 @@ import java.util.List;
 
 public class BankStatementResources {
 
-    private static final String RESOURCES = "src/resources.csv";
+    private static final String RESOURCES = "src/Main/resources.csv";
 
     public BankStatementResources() {
     }
