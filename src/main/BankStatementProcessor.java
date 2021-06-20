@@ -1,4 +1,4 @@
-package Main;
+package main;
 
 import java.time.Month;
 import java.util.List;
