@@ -14,7 +14,7 @@ public class BankStatementsAnalyzer {
         this.bankTransactions = bankStatementParser.parseLinesFromCSV(resourcesLinesList);
     }
 
-    public static double calculateTotalAmount(final List<BankTransaction> bankTransactions) {
+    private static double calculateTotalAmount(final List<BankTransaction> bankTransactions) {
         double total = 0d;
 
         for (final BankTransaction bankTransaction : bankTransactions) {
@@ -24,7 +24,7 @@ public class BankStatementsAnalyzer {
         return total;
     }
 
-    public static List<BankTransaction> selectInMonth(final List<BankTransaction> bankTransactions, final Month month) {
+    private static List<BankTransaction> selectInMonth(final List<BankTransaction> bankTransactions, final Month month) {
         final List<BankTransaction> bankTransactionsInMonth = new ArrayList<>();
 
         for (final BankTransaction bankTransaction : bankTransactions) {
