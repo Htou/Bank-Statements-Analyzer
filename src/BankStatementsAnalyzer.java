@@ -3,15 +3,14 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class BankStatementsAnalyzer {
-    private final BankTransactionCSVParser bankStatementParser;
-    private final BankStatementsResources resources;
-    private final List<String> resourcesLinesList;
+
     private final List<BankTransaction> bankTransactions;
 
     BankStatementsAnalyzer() {
-        this.bankStatementParser = new BankTransactionCSVParser();
-        this.resources = new BankStatementsResources();
-        this.resourcesLinesList = resources.getResourcesLinesList();
+        final BankTransactionCSVParser bankStatementParser = new BankTransactionCSVParser();
+        final BankStatementsResources resources = new BankStatementsResources();
+        final List<String> resourcesLinesList = resources.getResourcesLinesList();
+
         this.bankTransactions = bankStatementParser.parseLinesFromCSV(resourcesLinesList);
     }
 
