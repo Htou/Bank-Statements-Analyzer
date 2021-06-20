@@ -10,11 +10,18 @@ import java.util.Collections;
 import java.util.List;
 
 public class BankStatementsAnalyzer {
-    final BankTransactionCSVParser bankStatementParser = new BankTransactionCSVParser();
+    final BankTransactionCSVParser bankStatementParser;
     final BankStatementsResources resources;
+    final List<String> resourcesLinesList;
 
     BankStatementsAnalyzer() {
+        this.bankStatementParser = new BankTransactionCSVParser();
         this.resources = new BankStatementsResources();
+        this.resourcesLinesList = resources.getResourcesLinesList();
+    }
+
+    public void calculate() {
+        bankStatementParser.parseLinesFromCSV(resourcesLinesList);
     }
 
 
@@ -52,5 +59,7 @@ public class BankStatementsAnalyzer {
 
         System.out.println("The total for all transactions in January: " + total);
     }
+
+
 
 }
