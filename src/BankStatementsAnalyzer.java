@@ -11,29 +11,15 @@ import java.util.List;
 
 public class BankStatementsAnalyzer {
     final BankTransactionCSVParser bankStatementParser = new BankTransactionCSVParser();
+    final BankStatementsResources resources;
 
     BankStatementsAnalyzer() {
-
-    }
-
-    public List<String> getResourcesLinesList() {
-        try {
-            String RESOURCES = BankStatementsResources.getRESOURCES();
-            final Path path = Paths.get(RESOURCES);
-            final List<String> lines = Files.readAllLines(path);
-
-            return lines;
-
-        } catch (IOException e) {
-            System.out.println("Error, file not found");
-
-            return Collections.<String>emptyList();
-        }
+        this.resources = new BankStatementsResources();
     }
 
 
     public void calculateTotal() {
-        List<String> lines = getResourcesLinesList();
+        List<String> lines =  resources.getResourcesLinesList();
 
         double total = 0d;
 
@@ -48,7 +34,7 @@ public class BankStatementsAnalyzer {
     }
 
     public void calculateSumJanuary() {
-        List<String> lines = getResourcesLinesList();
+        List<String> lines = resources.getResourcesLinesList();
 
         double total = 0d;
         final DateTimeFormatter DATE_PATTERN = DateTimeFormatter.ofPattern("dd-MM-yyyy");
