@@ -12,11 +12,11 @@ public class BankStatementResources {
     public BankStatementResources() {
     }
 
-    public String getRESOURCES() {
+    public static String getRESOURCES() {
         return RESOURCES;
     }
 
-    public List<String> getResourcesLinesList() {
+    public static List<String> getResourcesLinesList() {
         try {
             String RESOURCES = getRESOURCES();
             final Path path = Paths.get(RESOURCES);
