@@ -26,8 +26,8 @@ public class BankStatementProcessor {
     public double calculateTotalForCategory(final String category) {
         double total = 0;
 
-        for (final BankTransaction bankTransaction :
-                bankTransactions) {
+        for (final BankTransaction bankTransaction : bankTransactions) {
+
             if (bankTransaction.getDescription().equals(category)) {
                 total += bankTransaction.getAmount();
             }
@@ -42,6 +42,17 @@ public class BankStatementProcessor {
         for (final BankTransaction bankTransaction : bankTransactions) {
             total += bankTransaction.getAmount();
         }
+
+        return total;
+    }
+
+    public double calculateMaximumFromMonthInRange(final Month firstMonth, final Month lastMonth) {
+        double total = 0;
+
+        for (iswithing) {
+            total += bankTransaction.getAmount();
+        }
+
         return total;
     }
 }
