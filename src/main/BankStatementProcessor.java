@@ -52,7 +52,7 @@ public class BankStatementProcessor {
     public double calculateMaximumFromRange(final Month firstMonth, final Month lastMonth) {
         ArrayList<Double> transactionsInRange = new ArrayList<Double>();
 
-        LocalDate startDate = LocalDate.of(2020, firstMonth, firstMonth.minLength());
+        LocalDate startDate = LocalDate.of(2020, firstMonth, 1);
         LocalDate endDate = LocalDate.of(2020, lastMonth, lastMonth.maxLength());
 
         for (final BankTransaction bankTransaction : bankTransactions) {
@@ -72,10 +72,11 @@ public class BankStatementProcessor {
     public ArrayList<Double> calculateMaximumOfEachMonthInRange(final Month firstMonth, final Month lastMonth) {
         ArrayList<Double> maximumTransactionOfEachMonth = new ArrayList<Double>();
 
-        LocalDate startDate = LocalDate.of(2020, firstMonth, firstMonth.minLength());
+        LocalDate startDate = LocalDate.of(2020, firstMonth, 1);
         LocalDate endDate = LocalDate.of(2020, lastMonth, lastMonth.maxLength());
 
-        for (LocalDate date = startDate; date.isBefore(endDate); date.plusMonths(1)) {
+
+        for (LocalDate date = startDate; date.isBefore(endDate); date = date.plusMonths(1)) {
             Month startOfMonth = date.getMonth();
             Month endOfMonth = date.getMonth();
 
