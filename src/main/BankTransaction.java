@@ -28,6 +28,7 @@ public class BankTransaction {
 
     @Override
     public String toString() {
+
         return "BankTransaction{" +
                 "date= " + this.date +
                 ", amount= " + this.amount +
@@ -56,6 +57,7 @@ public class BankTransaction {
 
     @Override
     public int hashCode() {
+
         return Objects.hash(date, amount, description);
     }
 }
