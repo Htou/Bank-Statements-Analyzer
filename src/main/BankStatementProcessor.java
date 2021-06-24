@@ -48,11 +48,11 @@ public class BankStatementProcessor {
         return total;
     }
 
-    public double calculateMaximumFromMonthsInRange(final Month firstMonth, final int firstDay, final Month lastMonth, final int lastDay) {
+    public double calculateMaximumFromMonthsInRange(final Month firstMonth, final Month lastMonth) {
         double total = 0;
 
-        LocalDate startDate = LocalDate.of(2020, firstMonth, firstDay);
-        LocalDate endDate = LocalDate.of(2020, lastMonth, lastDay);
+        LocalDate startDate = LocalDate.of(2020, firstMonth, firstMonth.minLength());
+        LocalDate endDate = LocalDate.of(2020, lastMonth, lastMonth.maxLength());
 
         for (final BankTransaction bankTransaction : bankTransactions) {
             LocalDate bankTransactionDate = bankTransaction.getDate();
