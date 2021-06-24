@@ -1,5 +1,6 @@
 package main;
 
+import java.time.LocalDate;
 import java.time.Month;
 import java.util.List;
 
@@ -25,7 +26,20 @@ public class BankStatementAnalyzer {
         System.out.println("The total for transactions in December is " + bankStatementProcessor.calculateTotalInMonth(Month.DECEMBER));
         System.out.println("");
         System.out.println("The total for all transactions is " + bankStatementProcessor.calculateTotalAmount());
-        System.out.println("The total of highest transaction between Februari and July is " + bankStatementProcessor.calculateMaximumFromMonthsInRange(Month.FEBRUARY, Month.JULY));
+        System.out.println("The total of highest transaction between Februari and July is " + bankStatementProcessor.calculateMaximumFromRange(Month.FEBRUARY, Month.JULY));
+        System.out.println("");
+        System.out.println("The total of highest transaction between of each month between January and March is ");
+
+        Month startMonth = Month.JANUARY;
+        Month endMonth = Month.MAY;
+
+        Month currentMonth = startMonth;
+        for (double transaction : bankStatementProcessor.calculateMaximumOfEachMonthInRange(startMonth, endMonth)) {
+
+            System.out.println(currentMonth + ": " + transaction);
+
+            currentMonth = currentMonth.plus(1);
+        }
 
     }
 
