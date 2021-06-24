@@ -1,6 +1,8 @@
 package main;
 
+import java.time.LocalDate;
 import java.time.Month;
+import java.util.Date;
 import java.util.List;
 
 public class BankStatementProcessor {
@@ -46,11 +48,19 @@ public class BankStatementProcessor {
         return total;
     }
 
-    public double calculateMaximumFromMonthInRange(final Month firstMonth, final Month lastMonth) {
+    public double calculateMaximumFromMonthsInRange(final Month firstMonth, final int firstDay, final Month lastMonth, final int lastDay) {
         double total = 0;
 
-        for (iswithing) {
-            total += bankTransaction.getAmount();
+        LocalDate startDate = LocalDate.of(2020, firstMonth, firstDay);
+        LocalDate endDate = LocalDate.of(2020, lastMonth, lastDay);
+
+        for (final BankTransaction bankTransaction : bankTransactions) {
+            LocalDate bankTransactionDate = bankTransaction.getDate();
+
+            if (bankTransactionDate.isAfter(startDate) && bankTransactionDate.isBefore(endDate)) {
+                total += bankTransaction.getAmount();
+            }
+
         }
 
         return total;
