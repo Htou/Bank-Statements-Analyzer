@@ -85,4 +85,16 @@ public class BankStatementProcessor {
 
         return maximumTransactionOfEachMonth;
     }
+
+    public List<BankTransaction> findTransactions(final BankTransactionFilter bankTransactionFilter) {
+        final ArrayList<BankTransaction> result = new ArrayList<BankTransaction>();
+
+        for (final BankTransaction bankTransaction : bankTransactions) {
+            if (bankTransactionFilter.test(bankTransaction) == true) {
+                result.add(bankTransaction);
+            }
+        }
+
+        return result;
+    }
 }
