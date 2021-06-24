@@ -1,1007 +1,2007 @@
-30-01-2017,-100,Deliveroo
-30-01-2017,-50,Tesco
-01-02-2017,6000,Salary
-02-02-2017,2000,Royalties
-02-02-2017,-4000,Rent
-03-02-2017,3000,Tesco
-05-02-2017,-30,Cinema
--12-2018,-2060,Dd's Discounts
-07-06-2018,4267,Fred Meyer
-20-09-2020,3806,Burlington
-24-10-2017,5476,Burlington
-16-07-2018,-1712,National Stores
-07-04-2019,-4492,Big Lots
-31-01-2019,-3455,Meijer
-07-01-2017,4578,"Mack & Dave's Department Store (Huntington, West Virginia)"
-25-11-2019,-3377,"Flemington Department Store (Flemington, New Jersey)"
-15-08-2020,5621,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
-21-03-2020,3617,Roses
-04-10-2020,6782,Dd's Discounts
-26-01-2017,-2076,Nichols Stores (northern and western Louisiana)
-25-09-2019,-4854,Dd's Discounts
-25-05-2017,1359,"La Epoca (Miami, Florida)"
-28-06-2017,6783,Bargain Hunt
-06-05-2020,5788,Ben Franklin
-01-12-2019,-2476,Bi-Mart
-14-02-2017,581,"Jos. Kuhn & Co. (Champaign, Illinois)"
-29-03-2017,2386,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
-02-01-2019,5665,Christmas Tree Shops
-08-12-2020,-1888,Five Below
-19-09-2017,-2852,Roses
-08-09-2019,604,National Stores
-01-03-2019,4136,Ben Franklin
-17-10-2018,-3868,Renys
-10-05-2017,179,Dirt Cheap
-07-08-2018,-3629,Ross Stores
-03-04-2019,4188,The SM Store (Guam — part of a Philippine chain)
-27-01-2018,6700,"Jos. Kuhn & Co. (Champaign, Illinois)"
-01-09-2020,2787,The SM Store (Guam — part of a Philippine chain)
-30-03-2018,564,Meijer
-10-03-2019,5173,Bi-Mart
-26-01-2018,1774,Nichols Stores (northern and western Louisiana)
-16-09-2019,-2278,"Jos. Kuhn & Co. (Champaign, Illinois)"
-14-03-2020,-4241,Dollar General
-09-06-2019,3611,"McCaulou's Department Store (Lafayette, California)"
-09-04-2018,2443,Sam's Club
-14-12-2020,1009,"Neilson's (Oxford, Mississippi)"
-09-08-2020,-2799,"McCaulou's Department Store (Lafayette, California)"
-30-04-2018,5709,Family Dollar
-29-11-2020,-4734,Walmart
-10-08-2019,5611,Renys
-29-03-2019,2023,"Young's Department Store (Middle River, Minnesota)"
-23-02-2017,1026,Sam's Club
-22-12-2018,2103,Ocean State Job Lot
-04-09-2018,3046,Dollar General
-03-04-2019,3371,"Ruben's (Augusta, Georgia)"
-20-09-2018,1129,"Stahlke's (Mora, Minnesota)"
-17-09-2018,-1156,"Wakefield's (Anniston, Alabama)"
-22-12-2019,-4066,Ross Stores
-05-11-2018,3245,"Wakefield's (Anniston, Alabama)"
-04-10-2017,-644,Dollar General
-17-09-2019,-3524,Marshalls
-20-12-2019,-3160,Gabe's
-18-07-2020,2415,Costco
-04-10-2019,4572,"Leader Department Store (Cambridge, Minnesota)"
-25-06-2020,-4974,"Weaver's (Lawrence, Kansas)"
-15-01-2017,1234,"Leader Department Store (Cambridge, Minnesota)"
-30-11-2017,5033,National Stores
-01-07-2017,1102,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
-12-04-2020,-4873,"Fords Federated Store (Hamilton, Montana)"
-09-06-2020,-4226,Bargain Hunt
-13-02-2018,6863,Walmart
-16-01-2017,3382,Shirokiya (Honolulu)
-03-12-2017,2602,Costco
-05-10-2017,579,Boyds (Philadelphia)
-21-07-2018,1360,Gabe's
-23-07-2017,1807,Roses
-08-04-2019,-4798,"Flemington Department Store (Flemington, New Jersey)"
-24-02-2020,-2044,T.J. Maxx
-26-10-2019,1463,Fred Meyer
-27-01-2018,195,"Schroeder's (Two Rivers, Wisconsin)"
-19-01-2018,4881,"Jos. Kuhn & Co. (Champaign, Illinois)"
-03-07-2019,5878,Christmas Tree Shops
-20-01-2017,-4931,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
-12-12-2019,3099,Burlington
-20-04-2020,-2268,Bargain Hunt
-23-09-2019,5183,Walmart
-16-01-2018,6087,Stanley Korshak (Dallas)
-27-06-2017,-403,"Schroeder's (Two Rivers, Wisconsin)"
-05-09-2020,-318,"Neilson's (Oxford, Mississippi)"
-09-01-2019,-3307,"Halls (Kansas City, Missouri)"
-06-06-2017,4568,Gabe's
-17-12-2017,-1929,Sam's Club
-01-02-2018,3856,Nichols Stores (northern and western Louisiana)
-21-03-2018,-2510,Burlington
-24-01-2020,-2794,The SM Store (Guam — part of a Philippine chain)
-12-02-2019,-3070,"McCaulou's Department Store (Lafayette, California)"
-05-05-2018,5896,Target
-11-07-2018,-862,"La Epoca (Miami, Florida)"
-03-04-2018,-254,Dd's Discounts
-03-01-2020,-3145,Walmart
-04-02-2018,64,"Dunham's Department Store (Wellsboro, Pennsylvania)"
-30-04-2017,-2733,T.J. Maxx
-30-03-2018,-4574,National Stores
-22-11-2020,-3920,National Stores
-10-04-2018,418,"Loeb's (Meridian, Mississippi)"
-23-06-2019,4670,Dirt Cheap
-06-10-2020,-1592,"Schroeder's (Two Rivers, Wisconsin)"
-28-07-2018,772,Nichols Stores (northern and western Louisiana)
-30-10-2017,3263,"Getz's (Marquette, Michigan)"
-03-07-2020,-4471,"Halls (Kansas City, Missouri)"
-02-05-2017,2585,The SM Store (Guam — part of a Philippine chain)
-12-12-2019,6750,National Stores
-25-03-2019,2886,Sam's Club
-31-05-2018,5609,The SM Store (Guam — part of a Philippine chain)
-23-12-2018,4343,"Neilson's (Oxford, Mississippi)"
-21-03-2017,681,"Stahlke's (Mora, Minnesota)"
-03-05-2017,-2244,Boyds (Philadelphia)
-15-11-2017,6060,Bi-Mart
-04-12-2018,6439,"Neilson's (Oxford, Mississippi)"
-10-03-2018,3814,Ross Stores
-28-02-2017,4239,"Getz's (Marquette, Michigan)"
-17-07-2018,-3083,Sam's Club
-16-08-2019,-3141,Sam's Club
-07-10-2020,1954,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
-24-02-2020,-1945,T.J. Maxx
-13-06-2018,2346,"Dunham's Department Store (Wellsboro, Pennsylvania)"
-27-10-2019,-1141,Renys
-05-02-2019,5943,Dollar Tree
-05-05-2018,-3246,"Getz's (Marquette, Michigan)"
-14-07-2018,-3573,Harbor Freight Tools
-17-02-2019,-2058,"Neilson's (Oxford, Mississippi)"
-24-11-2018,-256,Target
-27-02-2020,-246,Burlington
-09-02-2020,906,"Stahlke's (Mora, Minnesota)"
-23-11-2018,1858,Ollie's Bargain Outlet
-02-03-2019,2611,Bi-Mart
-27-05-2019,5514,"Stahlke's (Mora, Minnesota)"
-02-05-2020,-3100,Ross Stores
-13-10-2017,-464,"Getz's (Marquette, Michigan)"
-17-08-2017,-2222,"Ruben's (Augusta, Georgia)"
-23-09-2019,-1553,National Stores
-07-12-2017,1367,"Halls (Kansas City, Missouri)"
-27-04-2020,-1173,Sam's Club
-21-12-2020,-560,Renys
-06-03-2017,652,"Loeb's (Meridian, Mississippi)"
-04-11-2020,594,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
-02-09-2019,239,Boyds (Philadelphia)
-12-06-2020,-135,Ben Franklin
-28-04-2019,3978,"Fords Federated Store (Hamilton, Montana)"
-30-09-2020,191,The SM Store (Guam — part of a Philippine chain)
-06-10-2020,5948,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
-01-11-2018,2567,Dirt Cheap
-30-04-2017,1530,"Halls (Kansas City, Missouri)"
-06-08-2020,-2237,HomeGoods
-23-01-2019,2586,Renys
-28-12-2020,5142,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
-01-04-2020,521,Roses
-14-04-2018,5737,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
-11-05-2019,4720,Ross Stores
-28-06-2018,2010,Walmart
-28-11-2019,6320,"Mack & Dave's Department Store (Huntington, West Virginia)"
-20-03-2018,6253,Ollie's Bargain Outlet
-11-01-2019,-419,"Ruben's (Augusta, Georgia)"
-03-01-2018,4388,"Fords Federated Store (Hamilton, Montana)"
-15-04-2020,-1037,BJ's Wholesale Club
-05-12-2020,-2228,"Flemington Department Store (Flemington, New Jersey)"
-22-01-2019,1930,Meijer
-31-10-2018,3231,Dd's Discounts
-11-04-2018,6765,"Leader Department Store (Cambridge, Minnesota)"
-24-03-2019,1447,Five Below
-11-02-2020,46,T.J. Maxx
-18-02-2020,6189,"Murphy's (Stillwater, Oklahoma)"
-07-09-2017,-1953,HomeGoods
-23-02-2020,-3028,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
-08-11-2019,3145,Meijer
-16-08-2017,-4782,"Mack & Dave's Department Store (Huntington, West Virginia)"
-15-09-2019,4939,Target
-17-07-2019,-4748,HomeGoods
-02-06-2017,-3254,Ocean State Job Lot
-24-05-2018,2310,"Weaver's (Lawrence, Kansas)"
-09-08-2019,-4789,"Neilson's (Oxford, Mississippi)"
-21-04-2018,-1013,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
-27-04-2019,5957,"Neilson's (Oxford, Mississippi)"
-31-12-2019,-3857,BJ's Wholesale Club
-14-07-2018,1804,Bargain Hunt
-07-11-2019,2195,Target
-27-10-2020,-2046,"Young's Department Store (Middle River, Minnesota)"
-21-01-2020,5706,Gabe's
-31-12-2018,5944,"Flemington Department Store (Flemington, New Jersey)"
-03-07-2020,906,"Young's Department Store (Middle River, Minnesota)"
-22-02-2020,2170,"Wakefield's (Anniston, Alabama)"
-15-10-2018,85,Stanley Korshak (Dallas)
-12-06-2018,697,"Weaver's (Lawrence, Kansas)"
-27-01-2018,6852,National Stores
-09-05-2018,3052,"Tomah Cash Mercantile (Tomah, Wisconsin)"
-22-03-2018,-3087,Family Dollar
-02-04-2018,2363,BJ's Wholesale Club
-13-04-2020,6534,Big Lots
-02-12-2018,1834,"Neilson's (Oxford, Mississippi)"
-22-06-2020,4254,"Fords Federated Store (Hamilton, Montana)"
-27-10-2019,-3858,Stanley Korshak (Dallas)
-11-01-2018,-922,"La Epoca (Miami, Florida)"
-24-05-2018,1393,Dd's Discounts
-02-12-2017,2531,Bargain Hunt
-24-03-2017,-291,Marshalls
-25-10-2019,4894,Nichols Stores (northern and western Louisiana)
-04-12-2018,2852,Bargain Hunt
-26-09-2017,-476,Fred Meyer
-29-08-2019,3553,BJ's Wholesale Club
-17-12-2019,-782,Bargain Hunt
-15-08-2017,1470,"Loeb's (Meridian, Mississippi)"
-06-05-2020,-4603,"Fords Federated Store (Hamilton, Montana)"
-23-03-2018,-3778,Gabe's
-11-08-2019,4701,"Stahlke's (Mora, Minnesota)"
-09-10-2018,5276,Treasure Hunt
-21-03-2018,-1813,"Ruben's (Augusta, Georgia)"
-31-05-2019,5622,"La Epoca (Miami, Florida)"
-13-09-2018,-4480,Harbor Freight Tools
-19-12-2020,-3448,"Murphy's (Stillwater, Oklahoma)"
-27-05-2017,5461,HomeGoods
-01-06-2020,962,"Tomah Cash Mercantile (Tomah, Wisconsin)"
-26-04-2018,-3689,"Dunham's Department Store (Wellsboro, Pennsylvania)"
-03-09-2019,3604,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
-12-01-2017,6379,Roses
-30-04-2019,1838,Dirt Cheap
-05-11-2020,-4103,Family Dollar
-13-11-2019,5995,Roses
-04-03-2020,-4960,Fred Meyer
-10-11-2018,-4712,"La Epoca (Miami, Florida)"
-28-03-2018,2302,Bi-Mart
-23-09-2017,4617,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
-14-01-2017,5706,"Jos. Kuhn & Co. (Champaign, Illinois)"
-08-08-2019,-2115,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
-28-05-2018,6998,Shirokiya (Honolulu)
-29-12-2019,5337,Target
-14-04-2017,5717,"Fords Federated Store (Hamilton, Montana)"
-12-03-2019,4807,Sam's Club
-13-03-2020,2581,Bargain Hunt
-30-03-2017,-934,Dollar General
-14-08-2017,-654,Fred Meyer
-22-04-2020,-2836,"Fords Federated Store (Hamilton, Montana)"
-16-09-2017,5550,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
-26-10-2018,1435,"Ruben's (Augusta, Georgia)"
-11-04-2017,-990,Target
-25-07-2017,-4117,The SM Store (Guam — part of a Philippine chain)
-03-01-2020,-1109,T.J. Maxx
-20-10-2018,6848,Ben Franklin
-16-10-2019,6394,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
-27-11-2017,6338,"La Epoca (Miami, Florida)"
-22-06-2019,1470,"Ruben's (Augusta, Georgia)"
-02-03-2018,-294,Five Below
-12-02-2020,2885,"Dunham's Department Store (Wellsboro, Pennsylvania)"
-01-05-2019,379,"La Epoca (Miami, Florida)"
-04-12-2018,3291,"Halls (Kansas City, Missouri)"
-16-11-2020,4203,Christmas Tree Shops
-22-07-2020,3860,Dollar Tree
-25-02-2020,1253,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
-22-02-2019,-364,Ben Franklin
-31-12-2017,2563,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
-13-03-2018,-3814,"Fords Federated Store (Hamilton, Montana)"
-12-06-2018,-4065,Family Dollar
-08-09-2017,145,HomeSense
-28-09-2017,6974,"Flemington Department Store (Flemington, New Jersey)"
-19-01-2020,-807,T.J. Maxx
-30-12-2019,1268,Christmas Tree Shops
-19-02-2020,-3475,National Stores
-26-10-2020,4014,Meijer
-15-08-2020,6324,"LaVogue Department Store (Hoquiam, Washington)"
-02-02-2017,4136,Target
-27-11-2017,6178,Marshalls
-31-12-2020,-165,Renys
-25-01-2017,3906,Treasure Hunt
-03-04-2019,-2623,"Mack & Dave's Department Store (Huntington, West Virginia)"
-07-04-2018,6650,HomeGoods
-16-12-2019,4227,"Weaver's (Lawrence, Kansas)"
-21-07-2017,-1700,Target
-03-05-2017,6828,"Leader Department Store (Cambridge, Minnesota)"
-29-01-2017,5039,Costco
-07-01-2019,210,"La Epoca (Miami, Florida)"
-25-06-2017,-3772,"McCaulou's Department Store (Lafayette, California)"
-01-01-2018,5631,Sam's Club
-05-01-2018,6725,HomeSense
-03-07-2019,-3893,Ollie's Bargain Outlet
-20-07-2020,474,Harbor Freight Tools
-14-12-2020,2446,Christmas Tree Shops
-15-02-2018,1099,Boyds (Philadelphia)
-06-01-2019,5813,"Fords Federated Store (Hamilton, Montana)"
-21-11-2017,2953,Sam's Club
-04-05-2017,3029,Fred Meyer
-11-05-2017,-2529,"Fords Federated Store (Hamilton, Montana)"
-26-10-2019,-2259,HomeGoods
-28-10-2018,3574,Bargain Hunt
-01-08-2020,-1259,Shirokiya (Honolulu)
-08-09-2017,-362,Tuesday Morning
-08-08-2020,3396,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
-15-02-2020,6010,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
-01-06-2019,-975,Target
-09-02-2020,5491,Stanley Korshak (Dallas)
-11-11-2020,-4416,Christmas Tree Shops
-21-06-2019,3494,"LaVogue Department Store (Hoquiam, Washington)"
-31-08-2018,-4317,BJ's Wholesale Club
-17-02-2019,3620,Dd's Discounts
-30-06-2019,-157,Stanley Korshak (Dallas)
-28-06-2018,5521,Ben Franklin
-08-02-2020,-3337,Stanley Korshak (Dallas)
-02-03-2018,3415,"Wakefield's (Anniston, Alabama)"
-11-05-2017,3121,"Stahlke's (Mora, Minnesota)"
-30-03-2018,1307,"Young's Department Store (Middle River, Minnesota)"
-19-09-2017,5699,Dollar Tree
-23-07-2018,-601,Gabe's
-20-05-2017,-2823,Ben Franklin
-17-06-2018,-3677,Roses
-17-12-2020,1467,"Weaver's (Lawrence, Kansas)"
-23-02-2020,3358,Burlington
-01-07-2017,-3697,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
-07-11-2019,1738,"LaVogue Department Store (Hoquiam, Washington)"
-14-04-2017,-2999,HomeGoods
-31-10-2018,5619,Walmart
-14-05-2018,-1858,Sam's Club
-23-01-2020,-833,Big Lots
-08-04-2017,6401,Tuesday Morning
-04-04-2017,-3689,BJ's Wholesale Club
-21-09-2017,-1526,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
-07-01-2020,2270,"La Epoca (Miami, Florida)"
-13-02-2018,-4352,"Tomah Cash Mercantile (Tomah, Wisconsin)"
-16-02-2019,-4687,"McCaulou's Department Store (Lafayette, California)"
-18-04-2017,2941,"Ruben's (Augusta, Georgia)"
-26-10-2017,4204,"Flemington Department Store (Flemington, New Jersey)"
-09-09-2018,4704,HomeSense
-24-01-2018,-4301,Ben Franklin
-22-07-2019,1981,"Dunham's Department Store (Wellsboro, Pennsylvania)"
-11-04-2019,-299,T.J. Maxx
-14-06-2020,5961,Marshalls
-03-03-2019,4965,Stanley Korshak (Dallas)
-10-01-2019,790,"Weaver's (Lawrence, Kansas)"
-23-10-2019,6789,The SM Store (Guam — part of a Philippine chain)
-09-07-2019,-1998,"Mack & Dave's Department Store (Huntington, West Virginia)"
-20-10-2017,-2698,"Tomah Cash Mercantile (Tomah, Wisconsin)"
-23-08-2017,-2566,"Wakefield's (Anniston, Alabama)"
-27-11-2017,-4936,"Schroeder's (Two Rivers, Wisconsin)"
-05-08-2017,3955,"Mack & Dave's Department Store (Huntington, West Virginia)"
-11-09-2017,3941,Dollar General
-07-05-2019,-1701,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
-26-02-2017,6959,"Loeb's (Meridian, Mississippi)"
-30-12-2019,1798,Five Below
-27-04-2019,-153,Dollar General
-23-01-2019,-2188,HomeSense
-06-03-2020,295,Bargain Hunt
-20-08-2020,-1336,"LaVogue Department Store (Hoquiam, Washington)"
-29-05-2019,-4969,Five Below
-11-06-2020,276,Renys
-25-09-2017,-2881,"Stahlke's (Mora, Minnesota)"
-08-07-2020,-1444,Treasure Hunt
-04-09-2020,3900,"Neilson's (Oxford, Mississippi)"
-09-06-2017,-440,The SM Store (Guam — part of a Philippine chain)
-12-03-2017,2039,Tuesday Morning
-19-04-2020,-2640,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
-08-04-2017,2445,"Halls (Kansas City, Missouri)"
-25-05-2020,5675,Five Below
-03-07-2018,1572,Roses
-14-04-2018,5148,Treasure Hunt
-23-09-2019,220,Family Dollar
-22-07-2017,-3223,"Young's Department Store (Middle River, Minnesota)"
-20-09-2017,2489,"Leader Department Store (Cambridge, Minnesota)"
-27-05-2017,-2127,Renys
-02-10-2017,-960,"Murphy's (Stillwater, Oklahoma)"
-26-11-2018,740,Meijer
-12-07-2018,2398,"Tomah Cash Mercantile (Tomah, Wisconsin)"
-20-06-2019,5930,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
-02-05-2018,4224,Meijer
-22-04-2018,2303,"La Epoca (Miami, Florida)"
-14-01-2019,859,Ollie's Bargain Outlet
-23-05-2020,1805,Renys
-29-07-2017,4240,"Getz's (Marquette, Michigan)"
-10-07-2020,-2414,HomeGoods
-18-11-2017,6240,"Jos. Kuhn & Co. (Champaign, Illinois)"
-20-04-2018,-4354,"Stahlke's (Mora, Minnesota)"
-14-05-2018,5678,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
-28-11-2017,1809,Ocean State Job Lot
-22-01-2020,4068,Nichols Stores (northern and western Louisiana)
-30-08-2017,4802,Ocean State Job Lot
-09-12-2018,1429,Five Below
-09-11-2020,-2490,Target
-23-09-2017,3587,Tuesday Morning
-10-10-2018,-1170,"Leader Department Store (Cambridge, Minnesota)"
-07-01-2018,4552,"Loeb's (Meridian, Mississippi)"
-25-09-2017,-3061,Tuesday Morning
-10-04-2019,-1346,"Schroeder's (Two Rivers, Wisconsin)"
-17-11-2017,-17,Ross Stores
-04-04-2019,2317,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
-14-11-2019,-2305,Boyds (Philadelphia)
-05-10-2020,-392,"Getz's (Marquette, Michigan)"
-22-11-2018,-135,Marshalls
-24-02-2018,4859,Ben Franklin
-12-02-2019,-2797,Meijer
-15-11-2017,-1360,Christmas Tree Shops
-26-01-2017,-4414,"Young's Department Store (Middle River, Minnesota)"
-26-08-2017,-3429,"Leader Department Store (Cambridge, Minnesota)"
-19-08-2018,1413,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
-16-11-2018,2370,Gabe's
-27-01-2019,3024,National Stores
-22-07-2020,-4519,"Wakefield's (Anniston, Alabama)"
-03-09-2018,-843,Ollie's Bargain Outlet
-28-12-2017,1697,Meijer
-26-02-2020,1880,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
-25-03-2017,4271,Costco
-07-01-2018,-3254,T.J. Maxx
-24-05-2017,6683,"Dunham's Department Store (Wellsboro, Pennsylvania)"
-23-07-2019,2437,"Fords Federated Store (Hamilton, Montana)"
-10-03-2019,5774,Target
-21-07-2019,1925,BJ's Wholesale Club
-14-04-2018,5455,"Murphy's (Stillwater, Oklahoma)"
-29-11-2017,1901,Target
-26-07-2017,6217,Burlington
-01-09-2020,4137,Bargain Hunt
-15-08-2018,98,Ross Stores
-02-12-2018,-2429,Five Below
-02-02-2017,-1824,Burlington
-30-04-2019,3994,"Getz's (Marquette, Michigan)"
-05-08-2017,679,"Young's Department Store (Middle River, Minnesota)"
-12-11-2020,4330,Ollie's Bargain Outlet
-29-06-2018,-2638,"La Epoca (Miami, Florida)"
-12-05-2018,-3374,"Jos. Kuhn & Co. (Champaign, Illinois)"
-19-11-2018,5945,Stanley Korshak (Dallas)
-27-11-2019,-3174,"Stahlke's (Mora, Minnesota)"
-11-10-2019,1501,Fred Meyer
-06-08-2019,-3586,"Halls (Kansas City, Missouri)"
-31-01-2018,-1517,Ross Stores
-23-01-2020,-1805,Nichols Stores (northern and western Louisiana)
-11-07-2018,625,"Schroeder's (Two Rivers, Wisconsin)"
-30-11-2019,5596,Dd's Discounts
-07-06-2020,-2823,Renys
-27-06-2020,848,"Schroeder's (Two Rivers, Wisconsin)"
-08-06-2020,-361,Marshalls
-29-04-2019,1139,Sam's Club
-22-12-2020,5436,"Schroeder's (Two Rivers, Wisconsin)"
-29-04-2020,5245,National Stores
-02-07-2019,3081,Shirokiya (Honolulu)
-08-07-2017,5778,"Stahlke's (Mora, Minnesota)"
-11-12-2020,3149,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
-07-10-2017,4676,Burlington
-09-10-2018,6002,The SM Store (Guam — part of a Philippine chain)
-24-09-2020,968,Dollar Tree
-07-09-2020,-2539,Burlington
-17-11-2017,-2480,"Stahlke's (Mora, Minnesota)"
-18-04-2020,3556,"Schroeder's (Two Rivers, Wisconsin)"
-14-08-2017,1712,"Neilson's (Oxford, Mississippi)"
-24-12-2017,4070,"Loeb's (Meridian, Mississippi)"
-05-06-2017,-2088,The SM Store (Guam — part of a Philippine chain)
-21-07-2019,5018,HomeSense
-03-09-2020,4757,Christmas Tree Shops
-26-03-2020,-1742,Shirokiya (Honolulu)
-14-10-2020,-3761,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
-13-08-2020,841,BJ's Wholesale Club
-25-12-2019,1096,Five Below
-10-03-2018,745,"La Epoca (Miami, Florida)"
-15-01-2019,3215,Five Below
-28-02-2017,-4978,Costco
-07-08-2020,1090,Burlington
-25-06-2017,3931,"Wakefield's (Anniston, Alabama)"
-10-06-2020,4853,Ross Stores
-20-12-2018,4175,Boyds (Philadelphia)
-30-10-2020,4350,"Fords Federated Store (Hamilton, Montana)"
-02-08-2018,6945,Marshalls
-08-01-2017,-129,Ocean State Job Lot
-07-05-2017,-4095,Walmart
-30-12-2020,-2771,Bargain Hunt
-22-04-2017,-4048,Nichols Stores (northern and western Louisiana)
-19-02-2018,2405,Ocean State Job Lot
-25-07-2017,376,Tuesday Morning
-29-10-2018,-793,Ocean State Job Lot
-10-01-2019,-447,"Stahlke's (Mora, Minnesota)"
-02-09-2019,6009,"Flemington Department Store (Flemington, New Jersey)"
-08-05-2019,-27,Dd's Discounts
-07-07-2019,-1936,Family Dollar
-22-08-2020,-4550,"Tomah Cash Mercantile (Tomah, Wisconsin)"
-09-07-2020,-3180,"Mack & Dave's Department Store (Huntington, West Virginia)"
-23-07-2018,-4776,Dollar Tree
-06-07-2019,-1217,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
-14-11-2020,-276,Gabe's
-15-03-2019,1261,Costco
-08-12-2018,4032,"Murphy's (Stillwater, Oklahoma)"
-25-12-2017,2404,HomeGoods
-14-05-2019,-1472,Dollar General
-01-12-2018,2328,Sam's Club
-24-02-2017,1142,Stanley Korshak (Dallas)
-27-05-2018,1141,Big Lots
-30-05-2019,-2166,"Leader Department Store (Cambridge, Minnesota)"
-01-03-2018,5615,BJ's Wholesale Club
-23-02-2018,3697,Tuesday Morning
-07-10-2017,-2855,Bi-Mart
-26-11-2017,-364,Gabe's
-20-07-2017,5776,"Loeb's (Meridian, Mississippi)"
-01-11-2020,6062,Dollar Tree
-05-11-2017,2694,Tuesday Morning
-26-08-2019,-1075,Dollar Tree
-04-11-2020,-3122,"Halls (Kansas City, Missouri)"
-01-09-2019,4117,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
-05-06-2019,2911,Ross Stores
-31-01-2020,-3826,Dollar General
-14-03-2017,1143,Gabe's
-12-03-2020,3207,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
-19-11-2020,26,Five Below
-10-06-2019,-2671,Meijer
-12-04-2017,3550,Burlington
-06-09-2017,5252,Tuesday Morning
-16-11-2017,1130,Nichols Stores (northern and western Louisiana)
-28-05-2019,844,Tuesday Morning
-08-02-2020,-470,Harbor Freight Tools
-12-06-2017,4439,Tuesday Morning
-12-02-2018,-3987,"Murphy's (Stillwater, Oklahoma)"
-03-10-2018,-1416,"Dunham's Department Store (Wellsboro, Pennsylvania)"
-13-10-2017,4717,"LaVogue Department Store (Hoquiam, Washington)"
-22-05-2018,5080,"Loeb's (Meridian, Mississippi)"
-30-08-2020,3930,Big Lots
-01-10-2020,-3131,Harbor Freight Tools
-27-04-2019,-1360,Roses
-29-07-2019,-4551,Dollar General
-17-04-2020,-1289,"Mack & Dave's Department Store (Huntington, West Virginia)"
-27-05-2017,-2642,The SM Store (Guam — part of a Philippine chain)
-09-11-2019,-840,Fred Meyer
-01-08-2018,-2102,Walmart
-15-04-2019,-1687,Renys
-05-04-2019,-3806,"Leader Department Store (Cambridge, Minnesota)"
-28-04-2017,5926,"Ruben's (Augusta, Georgia)"
-02-12-2019,5354,Stanley Korshak (Dallas)
-14-01-2019,439,"LaVogue Department Store (Hoquiam, Washington)"
-16-12-2020,3014,Meijer
-10-07-2018,-2798,Gabe's
-27-07-2020,-2225,"Wakefield's (Anniston, Alabama)"
-19-10-2019,4291,Treasure Hunt
-15-07-2018,-4242,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
-17-01-2020,4514,T.J. Maxx
-05-01-2017,-2706,Costco
-06-09-2020,353,T.J. Maxx
-09-06-2019,726,The SM Store (Guam — part of a Philippine chain)
-28-02-2019,-1877,Ben Franklin
-23-07-2019,-534,HomeSense
-23-09-2019,1631,"Schroeder's (Two Rivers, Wisconsin)"
-21-07-2017,5919,"Tomah Cash Mercantile (Tomah, Wisconsin)"
-20-08-2017,-2824,Nichols Stores (northern and western Louisiana)
-02-08-2019,2972,Tuesday Morning
-14-05-2017,3901,Tuesday Morning
-18-12-2018,2475,Big Lots
-05-10-2019,3237,Tuesday Morning
-10-05-2020,2382,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
-06-01-2019,2276,Stanley Korshak (Dallas)
-29-10-2020,-455,Harbor Freight Tools
-17-08-2020,5902,Stanley Korshak (Dallas)
-09-04-2020,2143,Dollar Tree
-03-10-2019,-3065,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
-24-10-2018,4376,Big Lots
-18-07-2018,-2275,Big Lots
-29-06-2018,-119,Walmart
-13-09-2017,6885,Gabe's
-15-07-2018,-2884,"Wakefield's (Anniston, Alabama)"
-29-12-2018,-4988,"Schroeder's (Two Rivers, Wisconsin)"
-13-09-2019,-4521,HomeSense
-11-01-2019,5089,"Loeb's (Meridian, Mississippi)"
-09-02-2020,-224,Fred Meyer
-02-08-2018,5292,Marshalls
-20-09-2020,2831,"Flemington Department Store (Flemington, New Jersey)"
-27-04-2018,-216,Walmart
-22-05-2017,559,Boyds (Philadelphia)
-20-05-2019,6029,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
-20-06-2018,4252,"Ruben's (Augusta, Georgia)"
-16-07-2017,4853,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
-16-01-2018,-4695,Dd's Discounts
-23-09-2018,-1521,"Leader Department Store (Cambridge, Minnesota)"
-15-08-2017,-78,Christmas Tree Shops
-10-01-2018,-4874,Fred Meyer
-20-03-2017,4803,Bargain Hunt
-09-04-2018,1832,Ross Stores
-06-10-2020,3566,Dollar General
-01-08-2019,1148,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
-09-12-2020,-976,Dd's Discounts
-15-01-2017,-2022,Tuesday Morning
-27-02-2018,-1973,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
-24-10-2020,-718,Boyds (Philadelphia)
-15-12-2019,6973,"Loeb's (Meridian, Mississippi)"
-25-04-2017,1876,Dirt Cheap
-06-05-2020,5721,Big Lots
-14-09-2018,-3525,"Halls (Kansas City, Missouri)"
-09-11-2019,-2393,"Dunham's Department Store (Wellsboro, Pennsylvania)"
-21-02-2017,-1318,Ocean State Job Lot
-16-06-2020,336,Dollar General
-14-10-2018,-4589,HomeGoods
-04-05-2018,-1419,"Schroeder's (Two Rivers, Wisconsin)"
-29-11-2019,5111,"McCaulou's Department Store (Lafayette, California)"
-24-12-2018,1680,"Fords Federated Store (Hamilton, Montana)"
-30-12-2020,4493,Sam's Club
-05-12-2020,6577,Meijer
-07-12-2018,125,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
-20-06-2019,-3009,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
-20-03-2019,2538,Harbor Freight Tools
-30-04-2018,1500,Renys
-20-05-2018,73,"Schroeder's (Two Rivers, Wisconsin)"
-29-12-2017,-565,Shirokiya (Honolulu)
-28-02-2020,1268,"Halls (Kansas City, Missouri)"
-27-05-2019,-2724,Five Below
-26-01-2018,67,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
-26-07-2018,3884,Marshalls
-01-09-2017,-1445,"Getz's (Marquette, Michigan)"
-01-06-2018,5498,"Ruben's (Augusta, Georgia)"
-30-06-2018,2169,Meijer
-19-03-2017,5126,"Murphy's (Stillwater, Oklahoma)"
-17-01-2020,4390,Christmas Tree Shops
-14-08-2018,1829,Ben Franklin
-08-10-2018,2651,Stanley Korshak (Dallas)
-07-07-2018,-3020,"La Epoca (Miami, Florida)"
-18-04-2018,-4621,Treasure Hunt
-11-11-2019,2983,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
-20-08-2020,-262,BJ's Wholesale Club
-01-08-2018,4504,"Wakefield's (Anniston, Alabama)"
-09-11-2017,6702,Fred Meyer
-11-03-2017,447,Nichols Stores (northern and western Louisiana)
-09-03-2019,4793,"Jos. Kuhn & Co. (Champaign, Illinois)"
-03-07-2019,-3552,Tuesday Morning
-28-09-2017,4043,Bargain Hunt
-13-01-2020,2416,National Stores
-08-11-2017,5087,Target
-10-02-2020,-3432,"Jos. Kuhn & Co. (Champaign, Illinois)"
-08-08-2017,3704,Costco
-21-08-2018,-1919,Meijer
-20-10-2018,3792,Shirokiya (Honolulu)
-16-04-2020,-928,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
-01-03-2020,-163,"Weaver's (Lawrence, Kansas)"
-31-03-2018,1181,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
-12-02-2018,1645,"Jos. Kuhn & Co. (Champaign, Illinois)"
-23-07-2019,-3436,"Jos. Kuhn & Co. (Champaign, Illinois)"
-28-12-2017,612,Dd's Discounts
-19-12-2017,862,"Weaver's (Lawrence, Kansas)"
-24-08-2020,3711,Harbor Freight Tools
-10-06-2020,-904,"La Epoca (Miami, Florida)"
-22-08-2020,30,Dd's Discounts
-09-04-2017,-4213,Bi-Mart
-24-09-2017,-1648,Roses
-12-06-2020,822,Costco
-28-02-2020,4938,"Weaver's (Lawrence, Kansas)"
-29-09-2017,-3075,Ross Stores
-17-11-2019,5611,The SM Store (Guam — part of a Philippine chain)
-03-06-2018,5276,Tuesday Morning
-10-12-2018,5113,Dd's Discounts
-24-04-2018,-2414,"Young's Department Store (Middle River, Minnesota)"
-01-12-2019,-1379,"Flemington Department Store (Flemington, New Jersey)"
-24-12-2019,1376,"Flemington Department Store (Flemington, New Jersey)"
-09-06-2017,5058,"Jos. Kuhn & Co. (Champaign, Illinois)"
-23-03-2018,366,Target
-18-11-2018,-1958,Fred Meyer
-25-01-2020,-1951,"Wakefield's (Anniston, Alabama)"
-21-06-2020,2267,"Wakefield's (Anniston, Alabama)"
-05-11-2019,-864,"Weaver's (Lawrence, Kansas)"
-02-08-2018,4429,Walmart
-08-05-2020,-4457,Dirt Cheap
-22-11-2018,3912,"Weaver's (Lawrence, Kansas)"
-12-05-2020,143,Dd's Discounts
-19-05-2019,-4682,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
-12-01-2019,4733,"Mack & Dave's Department Store (Huntington, West Virginia)"
-27-07-2017,6647,Ocean State Job Lot
-05-01-2017,-2673,Ocean State Job Lot
-02-01-2020,4996,"Halls (Kansas City, Missouri)"
-02-07-2017,-3893,Tuesday Morning
-09-07-2018,-631,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
-03-06-2017,5613,"Wakefield's (Anniston, Alabama)"
-01-01-2020,-3146,"Jos. Kuhn & Co. (Champaign, Illinois)"
-29-12-2020,-1561,Ben Franklin
-04-06-2019,-1088,"Wakefield's (Anniston, Alabama)"
-11-02-2019,4068,"Dunham's Department Store (Wellsboro, Pennsylvania)"
-31-08-2018,6558,Bi-Mart
-08-02-2020,755,Shirokiya (Honolulu)
-23-04-2017,842,"LaVogue Department Store (Hoquiam, Washington)"
-03-07-2017,1234,"Getz's (Marquette, Michigan)"
-24-07-2017,3527,Big Lots
-22-05-2018,1748,T.J. Maxx
-18-08-2019,4336,"Weaver's (Lawrence, Kansas)"
-22-11-2020,3218,Target
-07-08-2017,2055,T.J. Maxx
-04-10-2017,2975,"Young's Department Store (Middle River, Minnesota)"
-18-08-2017,4298,"Young's Department Store (Middle River, Minnesota)"
-10-12-2020,90,"Stahlke's (Mora, Minnesota)"
-17-05-2018,-2536,"Neilson's (Oxford, Mississippi)"
-17-02-2020,-1036,"Flemington Department Store (Flemington, New Jersey)"
-12-10-2017,-3861,"Stahlke's (Mora, Minnesota)"
-13-12-2019,-1807,"Jos. Kuhn & Co. (Champaign, Illinois)"
-08-11-2017,-1157,BJ's Wholesale Club
-01-10-2019,1543,"Weaver's (Lawrence, Kansas)"
-07-08-2020,-4031,"La Epoca (Miami, Florida)"
-31-12-2018,268,Bargain Hunt
-03-07-2017,-2596,Ross Stores
-21-05-2017,-1955,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
-07-07-2019,3511,"Wakefield's (Anniston, Alabama)"
-26-05-2020,-3084,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
-20-07-2019,5393,Roses
-05-08-2020,-4622,Boyds (Philadelphia)
-20-06-2019,-3859,"Tomah Cash Mercantile (Tomah, Wisconsin)"
-01-09-2019,71,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
-01-03-2020,64,Burlington
-22-10-2020,1534,Ross Stores
-22-09-2020,3326,Ross Stores
-07-07-2017,-4242,"Leader Department Store (Cambridge, Minnesota)"
-18-05-2020,-426,Sam's Club
-31-07-2020,-995,Bargain Hunt
-14-02-2017,3763,Burlington
-25-05-2020,-4573,Big Lots
-24-02-2017,4130,Marshalls
-30-01-2019,3258,Renys
-30-01-2019,3859,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
-03-12-2018,4888,"Weaver's (Lawrence, Kansas)"
-28-05-2018,1615,"Mack & Dave's Department Store (Huntington, West Virginia)"
-27-11-2017,-532,Treasure Hunt
-09-11-2019,4855,Nichols Stores (northern and western Louisiana)
-30-10-2020,5087,Roses
-20-04-2020,-4444,"McCaulou's Department Store (Lafayette, California)"
-29-05-2019,-4338,Walmart
-18-11-2017,6766,Fred Meyer
-29-03-2020,1748,Dirt Cheap
-23-04-2017,-3478,"Ruben's (Augusta, Georgia)"
-21-03-2019,-4520,"Stahlke's (Mora, Minnesota)"
-24-04-2017,-1682,Five Below
-01-01-2020,106,"Halls (Kansas City, Missouri)"
-02-03-2017,-4213,"Neilson's (Oxford, Mississippi)"
-13-11-2019,6183,HomeGoods
-08-03-2018,1983,Gabe's
-19-03-2019,-3313,"McCaulou's Department Store (Lafayette, California)"
-26-02-2017,5084,Boyds (Philadelphia)
-06-07-2018,3744,T.J. Maxx
-19-08-2019,6372,Family Dollar
-20-08-2017,4876,Boyds (Philadelphia)
-01-02-2020,6074,Big Lots
-08-08-2019,-2302,"Fords Federated Store (Hamilton, Montana)"
-16-11-2018,-1607,Harbor Freight Tools
-14-05-2020,499,Renys
-19-04-2017,2958,"Mack & Dave's Department Store (Huntington, West Virginia)"
-04-01-2017,3109,Harbor Freight Tools
-08-06-2018,-3760,The SM Store (Guam — part of a Philippine chain)
-07-07-2020,-2259,"Leader Department Store (Cambridge, Minnesota)"
-21-03-2018,-2107,Tuesday Morning
-30-12-2020,1839,"Fords Federated Store (Hamilton, Montana)"
-22-01-2018,-3283,Sam's Club
-16-04-2018,-3854,Nichols Stores (northern and western Louisiana)
-19-05-2017,320,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
-17-12-2017,2792,Boyds (Philadelphia)
-12-10-2017,139,HomeGoods
-23-07-2020,1277,Harbor Freight Tools
-20-10-2018,1633,Dollar Tree
-12-11-2020,-208,National Stores
-02-01-2018,1760,"Fords Federated Store (Hamilton, Montana)"
-26-08-2019,553,Costco
-23-10-2017,3617,Roses
-07-05-2020,-3325,Roses
-12-08-2018,-2183,Sam's Club
-28-03-2017,3533,Walmart
-07-03-2017,-1158,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
-22-04-2018,2875,"Young's Department Store (Middle River, Minnesota)"
-28-05-2017,-4331,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
-06-12-2020,-1551,"Stahlke's (Mora, Minnesota)"
-02-09-2019,-3303,Dollar General
-07-08-2017,5087,Big Lots
-13-07-2020,2500,Gabe's
-05-03-2020,5294,Treasure Hunt
-03-09-2020,6187,"Fords Federated Store (Hamilton, Montana)"
-01-07-2019,-3332,Costco
-10-09-2019,2339,Family Dollar
-19-10-2019,-3842,Stanley Korshak (Dallas)
-30-12-2017,2427,Treasure Hunt
-23-06-2017,3921,"Schroeder's (Two Rivers, Wisconsin)"
-20-08-2019,-936,Five Below
-22-01-2019,-3265,Stanley Korshak (Dallas)
-17-08-2020,4641,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
-22-03-2019,4834,Walmart
-29-01-2020,-2466,Ocean State Job Lot
-13-03-2018,3933,Dollar Tree
-10-02-2020,5950,Dollar General
-10-12-2017,-754,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
-28-02-2020,-3059,Shirokiya (Honolulu)
-20-09-2019,-2102,"Mack & Dave's Department Store (Huntington, West Virginia)"
-28-01-2019,-1185,Roses
-12-01-2017,-4125,Nichols Stores (northern and western Louisiana)
-14-06-2018,6127,"Fords Federated Store (Hamilton, Montana)"
-04-11-2018,4936,Big Lots
-02-05-2017,2738,Marshalls
-20-12-2019,3761,Shirokiya (Honolulu)
-17-12-2019,-3573,"Fords Federated Store (Hamilton, Montana)"
-01-01-2019,-2872,"Murphy's (Stillwater, Oklahoma)"
-18-08-2018,-47,Costco
-23-09-2018,-718,Dollar Tree
-21-08-2018,555,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
-12-03-2017,3592,"Halls (Kansas City, Missouri)"
-30-12-2018,-48,HomeSense
-28-05-2017,3634,HomeSense
-15-08-2020,2350,"Dunham's Department Store (Wellsboro, Pennsylvania)"
-18-10-2018,-852,"Schroeder's (Two Rivers, Wisconsin)"
-08-11-2018,-640,Big Lots
-09-01-2020,2321,Sam's Club
-11-06-2017,-2602,Five Below
-26-01-2018,4095,HomeSense
-03-10-2017,1489,Dollar General
-23-08-2020,6587,"Flemington Department Store (Flemington, New Jersey)"
-23-08-2017,2644,Walmart
-24-01-2020,-4002,Harbor Freight Tools
-23-07-2017,1339,"Schroeder's (Two Rivers, Wisconsin)"
-14-10-2018,515,Family Dollar
-02-10-2017,1232,"LaVogue Department Store (Hoquiam, Washington)"
-12-09-2018,3904,"LaVogue Department Store (Hoquiam, Washington)"
-14-06-2019,5019,Roses
-09-03-2017,-4675,Christmas Tree Shops
-04-01-2020,686,"Halls (Kansas City, Missouri)"
-13-11-2017,3910,Nichols Stores (northern and western Louisiana)
-17-11-2020,4597,Dd's Discounts
-25-10-2020,2251,"Murphy's (Stillwater, Oklahoma)"
-08-11-2017,-3826,National Stores
-25-04-2020,1940,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
-18-05-2020,4371,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
-05-06-2019,-711,"Dunham's Department Store (Wellsboro, Pennsylvania)"
-21-10-2019,-1094,Dd's Discounts
-06-09-2019,2390,Walmart
-13-04-2017,3001,Renys
-31-08-2017,5856,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
-15-11-2020,-113,Burlington
-30-01-2018,5757,Ocean State Job Lot
-18-09-2020,-3073,"La Epoca (Miami, Florida)"
-16-12-2020,1308,Renys
-05-09-2019,-2641,Nichols Stores (northern and western Louisiana)
-11-09-2020,-1727,Stanley Korshak (Dallas)
-02-12-2019,3422,Five Below
-17-12-2017,-3597,"LaVogue Department Store (Hoquiam, Washington)"
-02-04-2019,3172,Dollar General
-02-08-2017,-3624,Five Below
-04-01-2019,-910,Walmart
-05-08-2019,4708,Dollar General
-01-01-2018,-4533,Walmart
-03-06-2020,5933,Shirokiya (Honolulu)
-02-06-2020,-2841,Tuesday Morning
-08-05-2019,-3598,Shirokiya (Honolulu)
-20-09-2019,-3126,T.J. Maxx
-24-05-2019,2062,Boyds (Philadelphia)
-15-08-2018,-908,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
-15-01-2018,-2581,Ollie's Bargain Outlet
-20-12-2017,74,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
-25-08-2020,82,BJ's Wholesale Club
-21-11-2019,-166,Stanley Korshak (Dallas)
-13-03-2017,5610,Stanley Korshak (Dallas)
-20-06-2017,777,"McCaulou's Department Store (Lafayette, California)"
-13-05-2020,2117,Five Below
-02-07-2018,6451,Ollie's Bargain Outlet
-20-08-2018,1552,Bi-Mart
-13-09-2018,3823,"Halls (Kansas City, Missouri)"
-05-01-2020,4317,"Jos. Kuhn & Co. (Champaign, Illinois)"
-09-12-2019,3792,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
-19-10-2019,5825,"Schroeder's (Two Rivers, Wisconsin)"
-07-09-2019,2431,Ross Stores
-27-11-2020,-2144,Meijer
-07-12-2019,4440,"Loeb's (Meridian, Mississippi)"
-13-07-2017,-4533,"Ruben's (Augusta, Georgia)"
-18-05-2019,1956,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
-09-10-2020,300,National Stores
-09-09-2017,6043,Walmart
-25-11-2018,3965,Meijer
-28-01-2018,6694,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
-08-06-2019,1171,Ollie's Bargain Outlet
-12-01-2018,-3004,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
-18-07-2018,2406,Dollar General
-05-05-2019,-3090,Treasure Hunt
-16-12-2018,5926,Family Dollar
-27-01-2018,-2429,Treasure Hunt
-24-09-2017,988,HomeGoods
-23-02-2019,2570,Harbor Freight Tools
-15-10-2018,-159,Boyds (Philadelphia)
-24-08-2020,4092,Walmart
-24-12-2020,1089,"Getz's (Marquette, Michigan)"
-30-12-2017,1589,Nichols Stores (northern and western Louisiana)
-19-03-2020,-1148,Ollie's Bargain Outlet
-30-04-2018,196,Boyds (Philadelphia)
-17-07-2020,3117,Walmart
-21-08-2017,-344,"Young's Department Store (Middle River, Minnesota)"
-29-03-2017,3711,Harbor Freight Tools
-14-04-2019,863,"Schroeder's (Two Rivers, Wisconsin)"
-25-01-2019,-2832,Dollar Tree
-02-06-2018,-3714,Bargain Hunt
-16-08-2020,-67,Dollar Tree
-27-05-2019,-1635,"LaVogue Department Store (Hoquiam, Washington)"
-15-10-2019,-2573,Ross Stores
-12-10-2018,3106,Ocean State Job Lot
-27-09-2019,877,The SM Store (Guam — part of a Philippine chain)
-26-01-2019,-1866,"Young's Department Store (Middle River, Minnesota)"
-02-05-2020,-1815,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
-24-11-2018,-781,HomeSense
-03-02-2018,3353,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
-20-05-2019,1546,Family Dollar
-04-03-2020,4142,BJ's Wholesale Club
-28-05-2019,-2826,"Loeb's (Meridian, Mississippi)"
-29-12-2018,-3265,Stanley Korshak (Dallas)
-03-05-2019,-2370,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
-20-03-2019,4118,Ben Franklin
-17-08-2020,5455,Walmart
-20-05-2018,-3162,Renys
-23-04-2017,-970,"Schroeder's (Two Rivers, Wisconsin)"
-09-08-2017,766,National Stores
-10-09-2020,529,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
-30-12-2017,2699,"Schroeder's (Two Rivers, Wisconsin)"
-23-05-2017,-4188,"Halls (Kansas City, Missouri)"
-09-06-2018,1279,Meijer
-29-11-2019,277,Walmart
-16-06-2020,-3832,Costco
-21-07-2018,-4149,The SM Store (Guam — part of a Philippine chain)
-16-02-2020,-4126,Bargain Hunt
-17-10-2017,-120,National Stores
-09-04-2019,5035,Dollar Tree
-02-03-2019,-4252,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
-19-06-2018,-2597,Shirokiya (Honolulu)
-24-06-2020,-3425,Fred Meyer
-01-11-2019,6287,"McCaulou's Department Store (Lafayette, California)"
-15-07-2018,3501,"Dunham's Department Store (Wellsboro, Pennsylvania)"
-01-11-2020,-3531,Dollar General
-05-10-2019,2455,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
-05-01-2019,5274,Bargain Hunt
-21-12-2017,-4962,Costco
-02-11-2020,-1693,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
-11-04-2019,5371,Walmart
-16-09-2017,7000,Boyds (Philadelphia)
-16-07-2018,200,Target
-17-06-2017,3719,"Jos. Kuhn & Co. (Champaign, Illinois)"
-14-12-2020,-686,Shirokiya (Honolulu)
-01-06-2019,-1890,Treasure Hunt
-04-01-2020,-3020,Dollar General
-03-04-2019,2641,"Loeb's (Meridian, Mississippi)"
-11-06-2019,5162,Target
-02-09-2019,3782,Nichols Stores (northern and western Louisiana)
-30-08-2019,-37,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
-25-10-2019,-3598,"Dunham's Department Store (Wellsboro, Pennsylvania)"
-30-06-2019,-3751,Costco
-23-06-2019,1885,"Halls (Kansas City, Missouri)"
-04-08-2017,6325,BJ's Wholesale Club
-22-12-2020,1359,Nichols Stores (northern and western Louisiana)
-09-10-2019,2400,"Schroeder's (Two Rivers, Wisconsin)"
-21-04-2018,1230,"Neilson's (Oxford, Mississippi)"
-11-05-2018,6542,"Schroeder's (Two Rivers, Wisconsin)"
-06-10-2019,-510,Marshalls
-14-08-2019,5639,"Jos. Kuhn & Co. (Champaign, Illinois)"
-27-11-2017,2228,HomeGoods
-04-11-2018,4686,"Halls (Kansas City, Missouri)"
-05-08-2018,-3728,"Jos. Kuhn & Co. (Champaign, Illinois)"
-22-11-2020,5658,Family Dollar
-31-12-2020,-4359,"Dunham's Department Store (Wellsboro, Pennsylvania)"
-28-08-2020,-2266,Costco
-21-02-2019,42,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
-09-12-2019,-3928,Fred Meyer
-26-10-2020,-2728,National Stores
-22-12-2017,1532,"Young's Department Store (Middle River, Minnesota)"
-03-05-2018,-4889,Fred Meyer
-03-09-2019,-2431,"Jos. Kuhn & Co. (Champaign, Illinois)"
-23-04-2018,2473,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
-22-03-2017,-4112,"Weaver's (Lawrence, Kansas)"
-22-04-2020,-212,Renys
-12-11-2019,5597,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
-15-11-2018,-4038,Costco
-23-02-2018,-4895,Ben Franklin
-21-12-2019,6419,Treasure Hunt
-29-05-2017,477,"McCaulou's Department Store (Lafayette, California)"
-24-01-2020,-4910,Marshalls
-06-09-2018,3312,T.J. Maxx
-17-03-2018,-2611,T.J. Maxx
-28-07-2017,-4883,Sam's Club
-19-06-2020,-3928,Harbor Freight Tools
-21-03-2018,5270,"Ruben's (Augusta, Georgia)"
-10-06-2018,-3396,"Tomah Cash Mercantile (Tomah, Wisconsin)"
-12-07-2018,2521,Walmart
-22-06-2020,5176,Tuesday Morning
-05-02-2018,6594,National Stores
-04-09-2019,-1704,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
-09-10-2019,4146,Burlington
-25-01-2018,-3278,Dollar General
-22-11-2017,4386,Boyds (Philadelphia)
-23-08-2019,-2610,"Stahlke's (Mora, Minnesota)"
-07-02-2018,1995,Renys
-22-02-2020,1873,Boyds (Philadelphia)
-06-05-2017,4017,"Loeb's (Meridian, Mississippi)"
-15-04-2017,-268,"Tomah Cash Mercantile (Tomah, Wisconsin)"
-29-04-2018,3851,Treasure Hunt
-11-09-2018,1892,"Ruben's (Augusta, Georgia)"
-18-10-2019,-392,T.J. Maxx
-13-12-2020,-1226,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
-19-11-2017,5924,"Neilson's (Oxford, Mississippi)"
-14-07-2019,6906,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
-18-01-2020,1256,"Young's Department Store (Middle River, Minnesota)"
-11-09-2020,4616,"Weaver's (Lawrence, Kansas)"
-20-02-2017,4517,"McCaulou's Department Store (Lafayette, California)"
-07-06-2018,2230,"Getz's (Marquette, Michigan)"
-20-04-2020,-3681,"Flemington Department Store (Flemington, New Jersey)"
-04-09-2017,-1702,Burlington
-28-12-2020,5429,Big Lots
-26-03-2018,3245,Family Dollar
-01-07-2019,-4840,Renys
-06-07-2020,-3357,"Weaver's (Lawrence, Kansas)"
-29-07-2019,3050,"Flemington Department Store (Flemington, New Jersey)"
-10-03-2020,-2269,"LaVogue Department Store (Hoquiam, Washington)"
-09-07-2019,5033,"Jos. Kuhn & Co. (Champaign, Illinois)"
-17-11-2018,4,HomeSense
-28-07-2017,699,Shirokiya (Honolulu)
-11-06-2019,-1095,"Stahlke's (Mora, Minnesota)"
-18-12-2019,3930,Gabe's
-01-01-2017,1264,Fred Meyer
-30-12-2019,72,"Getz's (Marquette, Michigan)"
-27-07-2017,2010,"Leader Department Store (Cambridge, Minnesota)"
-29-11-2018,1155,Treasure Hunt
-13-08-2019,6337,Sam's Club
-06-07-2020,-1978,"Halls (Kansas City, Missouri)"
+30-01-2020,-100,Deliveroo
+30-01-2020,-50,Tesco
+01-02-2020,6000,Salary
+02-02-2020,2000,Royalties
+02-02-2020,-4000,Rent
+03-02-2020,3000,Tesco
+05-02-2020,-30,Cinema
+18-10-2020,-4485,"Loeb's (Meridian, Mississippi)"
+04-07-2020,-2867,Sam's Club
+30-10-2020,138,"Weaver's (Lawrence, Kansas)"
+23-05-2020,-918,HomeSense
+12-08-2020,2149,Dd's Discounts
+29-04-2020,-644,"Young's Department Store (Middle River, Minnesota)"
+24-11-2020,4929,"Fords Federated Store (Hamilton, Montana)"
+15-07-2020,5862,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+01-04-2020,-3926,Christmas Tree Shops
+12-08-2020,-3104,"Ruben's (Augusta, Georgia)"
+14-03-2020,-4181,"Fords Federated Store (Hamilton, Montana)"
+24-10-2020,-1094,Bargain Hunt
+11-08-2020,6210,HomeGoods
+03-10-2020,6744,Sam's Club
+23-12-2020,-3450,Salary
+15-09-2020,4870,Target
+11-05-2020,-4829,Renys
+25-01-2020,3664,Bi-Mart
+12-06-2020,2937,Sam's Club
+28-03-2020,5338,Sam's Club
+03-08-2020,-1886,"Ruben's (Augusta, Georgia)"
+12-02-2020,-2618,Treasure Hunt
+20-01-2020,6486,HomeSense
+23-11-2020,-497,Target
+09-05-2020,-1879,The SM Store (Guam — part of a Philippine chain)
+22-10-2020,4355,Burlington
+19-06-2020,6500,Meijer
+16-01-2020,-3403,"Fords Federated Store (Hamilton, Montana)"
+29-01-2020,6603,"Wakefield's (Anniston, Alabama)"
+27-06-2020,-621,HomeSense
+20-09-2020,-2328,"La Epoca (Miami, Florida)"
+14-10-2020,-556,Ollie's Bargain Outlet
+23-12-2020,2448,"Weaver's (Lawrence, Kansas)"
+14-11-2020,-844,Meijer
+26-05-2020,391,"Flemington Department Store (Flemington, New Jersey)"
+23-12-2020,-1777,Stanley Korshak (Dallas)
+16-06-2020,3074,"Fords Federated Store (Hamilton, Montana)"
+26-04-2020,-129,Dd's Discounts
+13-10-2020,4480,Tuesday Morning
+22-11-2020,951,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+09-04-2020,5847,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+20-08-2020,6107,"Stahlke's (Mora, Minnesota)"
+02-02-2020,4182,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+09-11-2020,433,Tuesday Morning
+12-11-2020,-4991,"Leader Department Store (Cambridge, Minnesota)"
+11-09-2020,6517,"Stahlke's (Mora, Minnesota)"
+24-03-2020,6758,HomeGoods
+11-01-2020,1187,Dirt Cheap
+14-03-2020,6811,Dollar Tree
+10-02-2020,-3593,Tuesday Morning
+13-05-2020,6331,Ross Stores
+19-11-2020,-1428,Salary
+17-02-2020,-2252,National Stores
+31-10-2020,-3516,"La Epoca (Miami, Florida)"
+05-09-2020,-630,Five Below
+21-04-2020,3947,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+09-06-2020,-3014,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+07-05-2020,729,"Mack & Dave's Department Store (Huntington, West Virginia)"
+18-09-2020,-171,"Mack & Dave's Department Store (Huntington, West Virginia)"
+29-05-2020,-1861,Dollar General
+18-05-2020,4211,"Ruben's (Augusta, Georgia)"
+02-02-2020,5259,Walmart
+14-04-2020,-2652,"LaVogue Department Store (Hoquiam, Washington)"
+06-07-2020,-4201,Bargain Hunt
+18-06-2020,5828,Bi-Mart
+25-08-2020,1366,"Ruben's (Augusta, Georgia)"
+27-08-2020,-3920,Ross Stores
+24-08-2020,3290,"LaVogue Department Store (Hoquiam, Washington)"
+02-04-2020,994,Dollar General
+19-06-2020,699,"Fords Federated Store (Hamilton, Montana)"
+17-04-2020,974,BJ's Wholesale Club
+02-04-2020,-454,"Leader Department Store (Cambridge, Minnesota)"
+06-07-2020,-4954,"Leader Department Store (Cambridge, Minnesota)"
+19-02-2020,-2892,Nichols Stores (northern and western Louisiana)
+25-02-2020,-2060,Shirokiya (Honolulu)
+09-03-2020,6690,Ross Stores
+10-11-2020,3095,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+10-11-2020,134,"Flemington Department Store (Flemington, New Jersey)"
+30-05-2020,-4026,Bi-Mart
+22-09-2020,4850,"Fords Federated Store (Hamilton, Montana)"
+29-03-2020,1988,"La Epoca (Miami, Florida)"
+10-05-2020,-1705,"Jos. Kuhn & Co. (Champaign, Illinois)"
+07-05-2020,-858,"Ruben's (Augusta, Georgia)"
+21-02-2020,352,HomeSense
+26-04-2020,1196,"McCaulou's Department Store (Lafayette, California)"
+26-11-2020,-4293,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+18-07-2020,-3436,"Mack & Dave's Department Store (Huntington, West Virginia)"
+15-08-2020,2330,Costco
+23-03-2020,-1817,Fred Meyer
+28-11-2020,-4519,"Wakefield's (Anniston, Alabama)"
+04-10-2020,1749,Harbor Freight Tools
+23-07-2020,6073,Ben Franklin
+05-08-2020,-1783,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+11-11-2020,-3714,National Stores
+23-04-2020,3614,"Neilson's (Oxford, Mississippi)"
+02-11-2020,-2234,Burlington
+27-02-2020,6798,"Murphy's (Stillwater, Oklahoma)"
+06-01-2020,-4285,Family Dollar
+26-04-2020,-2884,HomeSense
+11-07-2020,-1759,Big Lots
+26-05-2020,3187,Bargain Hunt
+12-08-2020,-1886,"Jos. Kuhn & Co. (Champaign, Illinois)"
+29-09-2020,5085,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+10-09-2020,4051,Tuesday Morning
+07-11-2020,4501,Treasure Hunt
+28-08-2020,-3754,National Stores
+30-03-2020,-4353,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+21-02-2020,-4494,Ollie's Bargain Outlet
+04-07-2020,6461,"Flemington Department Store (Flemington, New Jersey)"
+16-07-2020,1238,The SM Store (Guam — part of a Philippine chain)
+05-12-2020,6258,"Halls (Kansas City, Missouri)"
+14-05-2020,4059,"Loeb's (Meridian, Mississippi)"
+20-07-2020,-2933,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+13-05-2020,-1653,Dollar General
+03-01-2020,5324,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+21-06-2020,-191,T.J. Maxx
+11-08-2020,2305,Sam's Club
+22-12-2020,4135,"Murphy's (Stillwater, Oklahoma)"
+20-08-2020,4548,Gabe's
+31-12-2020,5332,Gabe's
+08-01-2020,-2638,Family Dollar
+10-01-2020,-1575,"Murphy's (Stillwater, Oklahoma)"
+03-07-2020,6607,"Flemington Department Store (Flemington, New Jersey)"
+05-01-2020,5038,"Loeb's (Meridian, Mississippi)"
+04-01-2020,4877,Ben Franklin
+17-12-2020,3178,Ross Stores
+09-02-2020,-369,Ocean State Job Lot
+11-09-2020,-3760,Dd's Discounts
+29-03-2020,5059,"Schroeder's (Two Rivers, Wisconsin)"
+03-02-2020,2807,Roses
+10-08-2020,406,Big Lots
+03-10-2020,570,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+13-07-2020,3843,Bargain Hunt
+11-08-2020,-3809,Bi-Mart
+21-06-2020,-3755,Nichols Stores (northern and western Louisiana)
+26-08-2020,6345,Ross Stores
+23-01-2020,6831,Marshalls
+30-10-2020,2055,Christmas Tree Shops
+23-03-2020,5923,"Getz's (Marquette, Michigan)"
+31-03-2020,-4079,"McCaulou's Department Store (Lafayette, California)"
+04-12-2020,-2519,"Loeb's (Meridian, Mississippi)"
+22-10-2020,5855,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+24-11-2020,-2538,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+22-02-2020,6591,Ross Stores
+27-08-2020,-4411,"Mack & Dave's Department Store (Huntington, West Virginia)"
+02-07-2020,4976,Boyds (Philadelphia)
+13-09-2020,6733,"Weaver's (Lawrence, Kansas)"
+31-10-2020,-1562,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+16-08-2020,6009,"Mack & Dave's Department Store (Huntington, West Virginia)"
+11-06-2020,-4962,Shirokiya (Honolulu)
+20-07-2020,5941,Stanley Korshak (Dallas)
+10-03-2020,-570,"Jos. Kuhn & Co. (Champaign, Illinois)"
+13-03-2020,-4901,"LaVogue Department Store (Hoquiam, Washington)"
+26-01-2020,-4849,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+01-02-2020,2041,Dd's Discounts
+24-01-2020,6689,Nichols Stores (northern and western Louisiana)
+14-05-2020,4331,"LaVogue Department Store (Hoquiam, Washington)"
+11-11-2020,5550,Dollar Tree
+30-06-2020,-451,HomeSense
+12-11-2020,-1331,"Weaver's (Lawrence, Kansas)"
+26-03-2020,2522,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+08-09-2020,-1967,"Loeb's (Meridian, Mississippi)"
+21-04-2020,-4659,Treasure Hunt
+10-04-2020,-2452,"Murphy's (Stillwater, Oklahoma)"
+15-09-2020,4996,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+27-02-2020,-1372,"Mack & Dave's Department Store (Huntington, West Virginia)"
+19-07-2020,5657,Costco
+05-07-2020,1724,Christmas Tree Shops
+23-03-2020,-3580,Boyds (Philadelphia)
+18-07-2020,1393,"Fords Federated Store (Hamilton, Montana)"
+30-01-2020,2740,Marshalls
+21-07-2020,-3478,Christmas Tree Shops
+10-02-2020,-3408,"Young's Department Store (Middle River, Minnesota)"
+14-08-2020,-4994,"Weaver's (Lawrence, Kansas)"
+23-07-2020,3485,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+23-07-2020,6915,Nichols Stores (northern and western Louisiana)
+18-05-2020,4162,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+14-11-2020,842,Fred Meyer
+08-04-2020,-146,"Murphy's (Stillwater, Oklahoma)"
+30-08-2020,-2667,"Leader Department Store (Cambridge, Minnesota)"
+17-03-2020,4422,Bargain Hunt
+01-06-2020,-3579,Walmart
+04-11-2020,4403,"McCaulou's Department Store (Lafayette, California)"
+26-09-2020,6436,Bi-Mart
+06-03-2020,5111,"McCaulou's Department Store (Lafayette, California)"
+01-08-2020,3666,Renys
+22-12-2020,2372,Ocean State Job Lot
+15-01-2020,2657,"Neilson's (Oxford, Mississippi)"
+04-03-2020,-3916,Gabe's
+28-04-2020,6002,Bi-Mart
+20-11-2020,4027,Marshalls
+08-12-2020,-4763,Ollie's Bargain Outlet
+10-09-2020,-1613,Meijer
+24-06-2020,-108,"Loeb's (Meridian, Mississippi)"
+15-03-2020,894,"Wakefield's (Anniston, Alabama)"
+21-01-2020,87,"Loeb's (Meridian, Mississippi)"
+27-06-2020,4825,Dd's Discounts
+20-09-2020,2172,Dollar Tree
+22-06-2020,-535,Christmas Tree Shops
+24-05-2020,2691,Roses
+29-08-2020,985,Nichols Stores (northern and western Louisiana)
+09-06-2020,-454,Stanley Korshak (Dallas)
+22-10-2020,5026,Target
+11-08-2020,-4337,Big Lots
+10-04-2020,-4494,Bi-Mart
+13-09-2020,5614,"Flemington Department Store (Flemington, New Jersey)"
+24-10-2020,-1723,Renys
+20-10-2020,5288,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+29-01-2020,4947,Ross Stores
+07-04-2020,-2484,Costco
+27-02-2020,10,"Neilson's (Oxford, Mississippi)"
+07-07-2020,2002,Salary
+27-11-2020,1792,Family Dollar
+20-11-2020,-4438,Sam's Club
+07-08-2020,-3756,"Flemington Department Store (Flemington, New Jersey)"
+21-04-2020,-3551,"Murphy's (Stillwater, Oklahoma)"
+22-12-2020,4683,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+02-04-2020,6510,Dollar General
+20-07-2020,-1866,Christmas Tree Shops
+05-05-2020,6086,"Jos. Kuhn & Co. (Champaign, Illinois)"
+01-11-2020,-4828,"Neilson's (Oxford, Mississippi)"
+10-02-2020,-2745,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+29-12-2020,-3319,Ollie's Bargain Outlet
+15-03-2020,-2663,"Loeb's (Meridian, Mississippi)"
+16-01-2020,-2349,"McCaulou's Department Store (Lafayette, California)"
+15-03-2020,-3857,"Murphy's (Stillwater, Oklahoma)"
+22-05-2020,6869,"McCaulou's Department Store (Lafayette, California)"
+29-03-2020,-1238,"McCaulou's Department Store (Lafayette, California)"
+22-01-2020,4553,"Getz's (Marquette, Michigan)"
+23-10-2020,-3403,Boyds (Philadelphia)
+29-07-2020,200,"Jos. Kuhn & Co. (Champaign, Illinois)"
+10-05-2020,-4459,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+17-06-2020,-1015,HomeGoods
+10-12-2020,300,National Stores
+23-05-2020,5829,Christmas Tree Shops
+07-12-2020,3097,"Loeb's (Meridian, Mississippi)"
+19-06-2020,3340,Dirt Cheap
+19-09-2020,2330,Treasure Hunt
+06-12-2020,5833,National Stores
+13-09-2020,-4426,"Stahlke's (Mora, Minnesota)"
+11-01-2020,4113,Bi-Mart
+23-02-2020,-4184,"Murphy's (Stillwater, Oklahoma)"
+19-07-2020,1056,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+27-06-2020,6232,BJ's Wholesale Club
+12-08-2020,-4200,Renys
+27-06-2020,5330,Marshalls
+17-11-2020,4650,Meijer
+18-05-2020,4586,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+26-12-2020,-631,Stanley Korshak (Dallas)
+22-08-2020,-950,Boyds (Philadelphia)
+05-08-2020,5593,Fred Meyer
+09-08-2020,-652,Sam's Club
+23-03-2020,2830,T.J. Maxx
+22-03-2020,5562,Dollar Tree
+19-06-2020,2645,"Getz's (Marquette, Michigan)"
+21-12-2020,-844,HomeGoods
+25-09-2020,5882,Burlington
+12-02-2020,-836,Burlington
+16-09-2020,-4216,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+13-04-2020,-4308,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
+22-12-2020,4485,Dirt Cheap
+07-09-2020,-1777,"McCaulou's Department Store (Lafayette, California)"
+30-06-2020,1719,Dirt Cheap
+08-05-2020,825,Marshalls
+06-04-2020,-1573,"Schroeder's (Two Rivers, Wisconsin)"
+16-06-2020,654,"Halls (Kansas City, Missouri)"
+29-03-2020,4050,T.J. Maxx
+30-07-2020,-808,Bargain Hunt
+22-08-2020,-532,Ollie's Bargain Outlet
+30-04-2020,-37,Ollie's Bargain Outlet
+14-02-2020,770,"Young's Department Store (Middle River, Minnesota)"
+16-12-2020,3155,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+07-06-2020,4427,Renys
+14-07-2020,5790,"Halls (Kansas City, Missouri)"
+20-09-2020,-2912,Harbor Freight Tools
+11-04-2020,2666,Walmart
+30-01-2020,-1728,"Loeb's (Meridian, Mississippi)"
+16-09-2020,-4812,Ross Stores
+22-03-2020,4184,Bargain Hunt
+18-01-2020,4547,Ollie's Bargain Outlet
+07-03-2020,974,"Jos. Kuhn & Co. (Champaign, Illinois)"
+19-08-2020,-2871,HomeGoods
+11-05-2020,-4908,"Getz's (Marquette, Michigan)"
+23-10-2020,6922,National Stores
+23-05-2020,2144,Salary
+08-10-2020,4663,"Fords Federated Store (Hamilton, Montana)"
+28-12-2020,-1310,The SM Store (Guam — part of a Philippine chain)
+27-01-2020,-2392,Family Dollar
+18-11-2020,6384,Harbor Freight Tools
+16-10-2020,4598,Harbor Freight Tools
+10-10-2020,1793,Roses
+21-08-2020,-3340,Christmas Tree Shops
+24-10-2020,5598,"Schroeder's (Two Rivers, Wisconsin)"
+21-11-2020,2483,Shirokiya (Honolulu)
+20-12-2020,5403,HomeSense
+19-11-2020,-4038,"Leader Department Store (Cambridge, Minnesota)"
+17-08-2020,-4256,"Getz's (Marquette, Michigan)"
+26-05-2020,-45,Five Below
+12-01-2020,-558,"La Epoca (Miami, Florida)"
+02-12-2020,-1026,Burlington
+09-06-2020,4860,Marshalls
+06-04-2020,-3528,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+12-10-2020,1785,Meijer
+25-02-2020,3167,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+02-08-2020,-4506,Family Dollar
+27-06-2020,4108,Ocean State Job Lot
+11-12-2020,-3485,Roses
+20-01-2020,-1335,Harbor Freight Tools
+30-04-2020,-4400,Big Lots
+18-11-2020,952,Harbor Freight Tools
+01-03-2020,4326,"Loeb's (Meridian, Mississippi)"
+15-12-2020,-4877,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+24-01-2020,-1551,Dirt Cheap
+25-10-2020,371,Stanley Korshak (Dallas)
+01-04-2020,5443,National Stores
+01-03-2020,-4645,The SM Store (Guam — part of a Philippine chain)
+06-10-2020,3979,"Weaver's (Lawrence, Kansas)"
+15-03-2020,3950,Stanley Korshak (Dallas)
+05-08-2020,4151,Fred Meyer
+21-03-2020,354,"Young's Department Store (Middle River, Minnesota)"
+13-08-2020,295,Meijer
+07-07-2020,-1670,Salary
+08-09-2020,4384,Gabe's
+25-12-2020,-2374,Christmas Tree Shops
+06-03-2020,492,Christmas Tree Shops
+03-04-2020,4420,Ollie's Bargain Outlet
+25-10-2020,-3850,Ross Stores
+09-08-2020,-2953,Five Below
+27-07-2020,1414,"Fords Federated Store (Hamilton, Montana)"
+22-05-2020,511,"Young's Department Store (Middle River, Minnesota)"
+19-03-2020,-2423,Stanley Korshak (Dallas)
+25-07-2020,6559,Boyds (Philadelphia)
+01-02-2020,6977,Sam's Club
+12-09-2020,4874,Roses
+14-01-2020,-2621,Dd's Discounts
+21-04-2020,-2658,"Weaver's (Lawrence, Kansas)"
+04-04-2020,3450,"Weaver's (Lawrence, Kansas)"
+19-12-2020,-1789,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
+02-12-2020,-4847,Ross Stores
+24-04-2020,-3092,Ross Stores
+24-06-2020,-3239,"Young's Department Store (Middle River, Minnesota)"
+02-03-2020,-1832,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+06-05-2020,1646,Five Below
+06-11-2020,-1270,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+19-12-2020,55,Shirokiya (Honolulu)
+11-07-2020,2742,Fred Meyer
+07-09-2020,6210,T.J. Maxx
+30-06-2020,-740,"Wakefield's (Anniston, Alabama)"
+03-03-2020,-3265,"Ruben's (Augusta, Georgia)"
+03-05-2020,-858,"Stahlke's (Mora, Minnesota)"
+03-02-2020,6806,T.J. Maxx
+13-01-2020,1320,"Fords Federated Store (Hamilton, Montana)"
+29-09-2020,5851,The SM Store (Guam — part of a Philippine chain)
+14-10-2020,2385,Dd's Discounts
+05-11-2020,-4341,"Ruben's (Augusta, Georgia)"
+12-08-2020,5747,"Jos. Kuhn & Co. (Champaign, Illinois)"
+20-03-2020,-2090,BJ's Wholesale Club
+14-02-2020,5597,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
+18-06-2020,6971,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+04-10-2020,-985,"Schroeder's (Two Rivers, Wisconsin)"
+05-04-2020,5003,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+07-05-2020,3061,Bi-Mart
+24-01-2020,-1358,Fred Meyer
+25-04-2020,4696,HomeSense
+16-11-2020,4138,"Ruben's (Augusta, Georgia)"
+28-10-2020,-3592,"Weaver's (Lawrence, Kansas)"
+28-08-2020,4503,"Schroeder's (Two Rivers, Wisconsin)"
+22-05-2020,-2842,The SM Store (Guam — part of a Philippine chain)
+17-08-2020,-342,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+28-06-2020,-2725,Ocean State Job Lot
+21-11-2020,4080,Big Lots
+29-03-2020,-4926,"Getz's (Marquette, Michigan)"
+12-07-2020,5832,"Leader Department Store (Cambridge, Minnesota)"
+04-06-2020,-1944,Gabe's
+29-06-2020,2630,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+21-03-2020,-4098,"Murphy's (Stillwater, Oklahoma)"
+05-11-2020,5706,Dollar General
+09-10-2020,-2284,HomeSense
+29-08-2020,902,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
+09-03-2020,1732,"La Epoca (Miami, Florida)"
+22-08-2020,355,Nichols Stores (northern and western Louisiana)
+12-04-2020,3013,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+01-12-2020,6889,Tuesday Morning
+05-01-2020,-4341,HomeSense
+10-01-2020,-3493,"Schroeder's (Two Rivers, Wisconsin)"
+09-10-2020,4940,"Wakefield's (Anniston, Alabama)"
+29-10-2020,5988,Sam's Club
+29-02-2020,3557,Ocean State Job Lot
+23-08-2020,-4237,Ross Stores
+16-08-2020,-2016,Five Below
+04-06-2020,4280,Bargain Hunt
+09-06-2020,1096,Costco
+04-12-2020,5968,Bi-Mart
+04-07-2020,1530,Walmart
+29-06-2020,3414,Harbor Freight Tools
+08-01-2020,3986,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+14-04-2020,-994,Family Dollar
+15-11-2020,4482,Tuesday Morning
+04-04-2020,1395,"Jos. Kuhn & Co. (Champaign, Illinois)"
+03-09-2020,-1808,Stanley Korshak (Dallas)
+20-10-2020,-2712,Christmas Tree Shops
+07-06-2020,-721,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+17-02-2020,-2780,Stanley Korshak (Dallas)
+29-03-2020,-4034,Meijer
+24-08-2020,4926,Dirt Cheap
+23-01-2020,3882,Nichols Stores (northern and western Louisiana)
+11-12-2020,-10,"Ruben's (Augusta, Georgia)"
+26-01-2020,-545,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+06-05-2020,6770,"La Epoca (Miami, Florida)"
+22-02-2020,3463,Shirokiya (Honolulu)
+17-07-2020,4897,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+06-04-2020,5553,Dd's Discounts
+28-04-2020,-1003,"Leader Department Store (Cambridge, Minnesota)"
+18-09-2020,1946,"Wakefield's (Anniston, Alabama)"
+25-10-2020,-1761,Dd's Discounts
+25-06-2020,-1664,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+08-10-2020,-3970,Target
+06-06-2020,1860,"Weaver's (Lawrence, Kansas)"
+26-01-2020,-2117,"Wakefield's (Anniston, Alabama)"
+14-05-2020,4276,HomeGoods
+06-11-2020,5838,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+05-08-2020,1576,Dd's Discounts
+22-01-2020,5339,"Jos. Kuhn & Co. (Champaign, Illinois)"
+26-04-2020,5524,Dirt Cheap
+17-04-2020,5386,"Loeb's (Meridian, Mississippi)"
+19-02-2020,-3336,"Stahlke's (Mora, Minnesota)"
+17-09-2020,1394,Shirokiya (Honolulu)
+10-03-2020,4356,"Fords Federated Store (Hamilton, Montana)"
+13-06-2020,3032,Sam's Club
+12-10-2020,516,Fred Meyer
+04-09-2020,6779,Target
+03-08-2020,-4917,Dirt Cheap
+07-12-2020,3921,"Loeb's (Meridian, Mississippi)"
+03-08-2020,2462,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
+03-07-2020,1916,"Flemington Department Store (Flemington, New Jersey)"
+19-09-2020,-2058,"Fords Federated Store (Hamilton, Montana)"
+23-09-2020,6777,Walmart
+27-06-2020,-2591,Renys
+12-01-2020,6755,"Mack & Dave's Department Store (Huntington, West Virginia)"
+28-02-2020,2980,"Loeb's (Meridian, Mississippi)"
+01-03-2020,-4375,The SM Store (Guam — part of a Philippine chain)
+26-07-2020,2389,Marshalls
+11-07-2020,-3431,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+27-07-2020,-1757,Gabe's
+09-03-2020,-2895,Nichols Stores (northern and western Louisiana)
+07-08-2020,3901,Roses
+09-05-2020,-271,"LaVogue Department Store (Hoquiam, Washington)"
+11-04-2020,2758,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+26-10-2020,4883,"La Epoca (Miami, Florida)"
+05-12-2020,-1084,"Weaver's (Lawrence, Kansas)"
+29-03-2020,-1024,"Loeb's (Meridian, Mississippi)"
+27-12-2020,-2886,Costco
+28-03-2020,1801,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+31-08-2020,-4470,Ollie's Bargain Outlet
+26-12-2020,-4129,Target
+06-02-2020,4809,"Flemington Department Store (Flemington, New Jersey)"
+28-11-2020,207,Bi-Mart
+25-10-2020,-4209,"Fords Federated Store (Hamilton, Montana)"
+13-07-2020,1863,"Young's Department Store (Middle River, Minnesota)"
+08-04-2020,3910,Stanley Korshak (Dallas)
+02-09-2020,4840,Bi-Mart
+03-06-2020,6244,Meijer
+11-06-2020,-628,Treasure Hunt
+10-02-2020,-1791,Dollar Tree
+28-01-2020,-2906,Dollar Tree
+25-05-2020,3490,Marshalls
+30-04-2020,-2611,Ross Stores
+26-10-2020,4256,"Getz's (Marquette, Michigan)"
+23-10-2020,-2721,Meijer
+25-04-2020,1784,Harbor Freight Tools
+10-07-2020,-4694,"Wakefield's (Anniston, Alabama)"
+18-02-2020,6929,Bargain Hunt
+30-07-2020,-4992,"Jos. Kuhn & Co. (Champaign, Illinois)"
+25-04-2020,6229,Five Below
+29-06-2020,-4290,"Murphy's (Stillwater, Oklahoma)"
+12-05-2020,2758,Nichols Stores (northern and western Louisiana)
+01-02-2020,-1403,Boyds (Philadelphia)
+16-10-2020,-1996,Sam's Club
+04-09-2020,-277,"Wakefield's (Anniston, Alabama)"
+10-04-2020,5620,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+19-05-2020,977,"Young's Department Store (Middle River, Minnesota)"
+14-04-2020,6076,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+01-05-2020,-2282,Shirokiya (Honolulu)
+14-01-2020,-1304,Dollar Tree
+07-03-2020,4341,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
+26-03-2020,-2543,HomeGoods
+24-09-2020,1500,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+20-04-2020,-358,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+03-02-2020,-12,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+09-08-2020,3293,Renys
+19-11-2020,-601,"Halls (Kansas City, Missouri)"
+22-09-2020,-2583,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+15-05-2020,678,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+18-02-2020,1626,"Halls (Kansas City, Missouri)"
+07-08-2020,-989,Christmas Tree Shops
+29-01-2020,-3173,"Jos. Kuhn & Co. (Champaign, Illinois)"
+05-03-2020,-3955,Marshalls
+20-01-2020,-1343,Costco
+09-02-2020,6000,Shirokiya (Honolulu)
+24-02-2020,5271,Harbor Freight Tools
+14-05-2020,6384,Dirt Cheap
+23-01-2020,4765,Harbor Freight Tools
+30-08-2020,1282,"Ruben's (Augusta, Georgia)"
+05-06-2020,-2363,HomeGoods
+14-03-2020,3647,Gabe's
+15-09-2020,5559,"Murphy's (Stillwater, Oklahoma)"
+09-10-2020,4068,Burlington
+02-04-2020,464,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+21-12-2020,-239,Nichols Stores (northern and western Louisiana)
+14-08-2020,5843,The SM Store (Guam — part of a Philippine chain)
+13-02-2020,335,"La Epoca (Miami, Florida)"
+07-07-2020,759,"Ruben's (Augusta, Georgia)"
+21-11-2020,2945,Meijer
+04-06-2020,-1589,"Jos. Kuhn & Co. (Champaign, Illinois)"
+05-10-2020,5698,HomeSense
+15-08-2020,615,Roses
+29-08-2020,6477,Tuesday Morning
+16-07-2020,5622,"Schroeder's (Two Rivers, Wisconsin)"
+09-03-2020,4581,"Fords Federated Store (Hamilton, Montana)"
+30-10-2020,-3688,"Jos. Kuhn & Co. (Champaign, Illinois)"
+25-06-2020,-4728,The SM Store (Guam — part of a Philippine chain)
+23-07-2020,3203,"Young's Department Store (Middle River, Minnesota)"
+02-11-2020,728,"Getz's (Marquette, Michigan)"
+20-01-2020,-1415,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+03-02-2020,-291,Renys
+11-12-2020,1334,HomeSense
+29-07-2020,-4275,Meijer
+22-02-2020,-1968,Tuesday Morning
+21-09-2020,2149,Ollie's Bargain Outlet
+16-08-2020,1702,Big Lots
+02-09-2020,-1060,"Fords Federated Store (Hamilton, Montana)"
+27-12-2020,5265,"La Epoca (Miami, Florida)"
+17-01-2020,-668,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+20-01-2020,-3438,Meijer
+04-02-2020,4095,"Loeb's (Meridian, Mississippi)"
+04-11-2020,-2325,"Halls (Kansas City, Missouri)"
+18-12-2020,4855,"McCaulou's Department Store (Lafayette, California)"
+09-03-2020,5097,Ocean State Job Lot
+04-10-2020,2201,Five Below
+13-04-2020,-1419,"Getz's (Marquette, Michigan)"
+27-01-2020,4981,Tuesday Morning
+16-01-2020,3312,Dirt Cheap
+18-06-2020,-385,Treasure Hunt
+13-05-2020,2358,Nichols Stores (northern and western Louisiana)
+13-03-2020,6339,Roses
+25-12-2020,5545,"La Epoca (Miami, Florida)"
+11-10-2020,2133,Renys
+02-11-2020,-3452,Ocean State Job Lot
+28-04-2020,-2482,HomeGoods
+07-06-2020,5702,"Leader Department Store (Cambridge, Minnesota)"
+18-09-2020,-2628,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+23-09-2020,6884,The SM Store (Guam — part of a Philippine chain)
+13-11-2020,5616,"Young's Department Store (Middle River, Minnesota)"
+16-09-2020,1031,Salary
+18-10-2020,-1222,"La Epoca (Miami, Florida)"
+01-11-2020,5860,"LaVogue Department Store (Hoquiam, Washington)"
+30-06-2020,4413,Shirokiya (Honolulu)
+09-04-2020,-4780,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+13-11-2020,-651,Big Lots
+30-08-2020,-770,"Wakefield's (Anniston, Alabama)"
+10-06-2020,5258,T.J. Maxx
+22-04-2020,-1221,The SM Store (Guam — part of a Philippine chain)
+06-12-2020,6923,"Mack & Dave's Department Store (Huntington, West Virginia)"
+18-01-2020,-36,Salary
+25-10-2020,-3635,Shirokiya (Honolulu)
+27-06-2020,-4302,"Weaver's (Lawrence, Kansas)"
+03-08-2020,3056,Tuesday Morning
+18-03-2020,694,Bargain Hunt
+23-08-2020,3644,BJ's Wholesale Club
+29-07-2020,-627,National Stores
+06-05-2020,-2169,Fred Meyer
+06-03-2020,4662,Ben Franklin
+19-01-2020,-1713,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
+13-05-2020,-3419,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+12-02-2020,-3847,Roses
+07-05-2020,-3680,"Stahlke's (Mora, Minnesota)"
+16-06-2020,-3745,Walmart
+05-04-2020,4400,Meijer
+16-04-2020,1371,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+24-06-2020,-4576,"Schroeder's (Two Rivers, Wisconsin)"
+19-04-2020,5975,"McCaulou's Department Store (Lafayette, California)"
+12-02-2020,-4012,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+25-02-2020,3835,"Neilson's (Oxford, Mississippi)"
+13-04-2020,-4679,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+18-01-2020,5654,The SM Store (Guam — part of a Philippine chain)
+13-08-2020,-1546,"Halls (Kansas City, Missouri)"
+03-09-2020,1811,"Ruben's (Augusta, Georgia)"
+27-07-2020,-1584,Meijer
+24-12-2020,3514,Dollar Tree
+25-01-2020,-442,"Flemington Department Store (Flemington, New Jersey)"
+24-10-2020,-1780,Renys
+11-02-2020,291,Roses
+10-04-2020,1392,Christmas Tree Shops
+18-03-2020,3980,Boyds (Philadelphia)
+12-12-2020,1712,"La Epoca (Miami, Florida)"
+04-11-2020,-2676,Ollie's Bargain Outlet
+15-04-2020,-212,Family Dollar
+09-12-2020,-3835,Ross Stores
+07-09-2020,3565,Marshalls
+14-08-2020,-4085,"Jos. Kuhn & Co. (Champaign, Illinois)"
+29-10-2020,-2706,Boyds (Philadelphia)
+25-10-2020,1594,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+07-08-2020,-447,"Getz's (Marquette, Michigan)"
+09-06-2020,2866,Harbor Freight Tools
+15-12-2020,5072,"Leader Department Store (Cambridge, Minnesota)"
+29-12-2020,3135,Harbor Freight Tools
+03-11-2020,-2030,"Flemington Department Store (Flemington, New Jersey)"
+15-08-2020,-619,"Leader Department Store (Cambridge, Minnesota)"
+30-07-2020,1844,Fred Meyer
+01-01-2020,-2846,HomeGoods
+16-06-2020,-2793,Fred Meyer
+10-09-2020,-1313,Family Dollar
+19-04-2020,6434,"Getz's (Marquette, Michigan)"
+29-07-2020,-1055,"Weaver's (Lawrence, Kansas)"
+07-03-2020,4466,Renys
+19-09-2020,-2337,"McCaulou's Department Store (Lafayette, California)"
+01-12-2020,5296,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+13-03-2020,-2320,Stanley Korshak (Dallas)
+03-05-2020,976,"McCaulou's Department Store (Lafayette, California)"
+25-12-2020,91,Bi-Mart
+18-04-2020,4699,"La Epoca (Miami, Florida)"
+10-08-2020,6451,HomeSense
+25-02-2020,4634,Tuesday Morning
+29-09-2020,5827,"Flemington Department Store (Flemington, New Jersey)"
+28-05-2020,4059,Renys
+24-01-2020,-4897,Meijer
+29-07-2020,5649,Nichols Stores (northern and western Louisiana)
+22-02-2020,5547,"Fords Federated Store (Hamilton, Montana)"
+16-08-2020,-4172,Nichols Stores (northern and western Louisiana)
+20-06-2020,799,Roses
+11-04-2020,3651,T.J. Maxx
+25-01-2020,875,Tuesday Morning
+06-02-2020,5194,Target
+21-04-2020,2115,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+16-06-2020,-806,Dollar General
+12-03-2020,-3902,Tuesday Morning
+14-04-2020,4845,Treasure Hunt
+24-12-2020,-2537,Burlington
+05-04-2020,5568,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+12-07-2020,-2979,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+26-09-2020,6072,Burlington
+27-03-2020,3289,Dollar General
+09-09-2020,553,"Schroeder's (Two Rivers, Wisconsin)"
+04-12-2020,4533,"Young's Department Store (Middle River, Minnesota)"
+26-03-2020,5353,Bargain Hunt
+13-12-2020,6517,"Flemington Department Store (Flemington, New Jersey)"
+30-10-2020,4537,Target
+27-09-2020,795,Dd's Discounts
+24-11-2020,-3008,"Fords Federated Store (Hamilton, Montana)"
+28-03-2020,-218,"La Epoca (Miami, Florida)"
+10-08-2020,-4169,"Ruben's (Augusta, Georgia)"
+19-08-2020,5091,Roses
+08-10-2020,3423,"Young's Department Store (Middle River, Minnesota)"
+14-01-2020,-581,Target
+20-02-2020,6989,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+05-08-2020,5266,"Weaver's (Lawrence, Kansas)"
+11-11-2020,-4261,Stanley Korshak (Dallas)
+06-12-2020,-1286,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+17-04-2020,6271,"Neilson's (Oxford, Mississippi)"
+02-08-2020,-683,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+12-11-2020,383,Roses
+25-10-2020,2455,Salary
+30-01-2020,2328,Christmas Tree Shops
+19-03-2020,10,"Stahlke's (Mora, Minnesota)"
+28-04-2020,4093,"Mack & Dave's Department Store (Huntington, West Virginia)"
+08-03-2020,-570,Roses
+19-07-2020,-4907,"Ruben's (Augusta, Georgia)"
+29-04-2020,1541,The SM Store (Guam — part of a Philippine chain)
+27-04-2020,2524,"La Epoca (Miami, Florida)"
+30-06-2020,4308,Roses
+03-04-2020,4720,"La Epoca (Miami, Florida)"
+26-05-2020,2327,Burlington
+19-08-2020,4290,"Ruben's (Augusta, Georgia)"
+05-11-2020,1131,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+14-06-2020,2557,Bargain Hunt
+14-04-2020,-2409,"Fords Federated Store (Hamilton, Montana)"
+07-06-2020,6296,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+05-05-2020,2291,"Neilson's (Oxford, Mississippi)"
+22-06-2020,-4377,Big Lots
+13-09-2020,4234,Meijer
+11-05-2020,-3074,"Halls (Kansas City, Missouri)"
+31-05-2020,-987,Big Lots
+23-06-2020,-3130,Costco
+20-06-2020,-2842,HomeSense
+17-12-2020,-4256,"Stahlke's (Mora, Minnesota)"
+14-04-2020,-2631,Dollar Tree
+19-09-2020,2998,Ben Franklin
+18-07-2020,4497,"Wakefield's (Anniston, Alabama)"
+05-05-2020,2188,"Getz's (Marquette, Michigan)"
+02-05-2020,-1185,Christmas Tree Shops
+17-08-2020,-1103,Treasure Hunt
+22-06-2020,3619,Dollar General
+28-04-2020,5141,"McCaulou's Department Store (Lafayette, California)"
+29-11-2020,6004,Fred Meyer
+23-11-2020,-3360,Dollar General
+26-05-2020,6864,HomeSense
+21-06-2020,1547,Dollar General
+29-05-2020,4751,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+08-03-2020,1301,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+21-04-2020,-4586,"Flemington Department Store (Flemington, New Jersey)"
+30-09-2020,1772,Bargain Hunt
+08-03-2020,2654,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+04-06-2020,-714,Dollar General
+19-10-2020,3557,Tuesday Morning
+11-11-2020,2575,Family Dollar
+21-01-2020,-3253,Roses
+02-06-2020,561,"Weaver's (Lawrence, Kansas)"
+08-09-2020,1898,"Leader Department Store (Cambridge, Minnesota)"
+02-06-2020,-1020,National Stores
+22-03-2020,3816,Harbor Freight Tools
+22-01-2020,-3558,"Wakefield's (Anniston, Alabama)"
+01-09-2020,2951,Dollar General
+22-08-2020,1294,"Stahlke's (Mora, Minnesota)"
+14-08-2020,-2638,Meijer
+05-02-2020,1324,"Jos. Kuhn & Co. (Champaign, Illinois)"
+09-06-2020,3974,Ben Franklin
+14-03-2020,-4863,Target
+27-01-2020,-4282,Ross Stores
+08-11-2020,3098,Sam's Club
+01-10-2020,-4161,Bi-Mart
+24-08-2020,5975,Boyds (Philadelphia)
+25-12-2020,-587,"Flemington Department Store (Flemington, New Jersey)"
+06-12-2020,-1404,Christmas Tree Shops
+25-11-2020,5386,Walmart
+13-02-2020,-4347,Nichols Stores (northern and western Louisiana)
+07-10-2020,-3417,Marshalls
+02-08-2020,1723,The SM Store (Guam — part of a Philippine chain)
+07-01-2020,1691,Meijer
+09-04-2020,-2396,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+19-01-2020,-718,Five Below
+19-04-2020,4336,"La Epoca (Miami, Florida)"
+08-02-2020,4303,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+11-09-2020,2430,HomeGoods
+15-08-2020,6512,Treasure Hunt
+08-03-2020,-610,"Leader Department Store (Cambridge, Minnesota)"
+10-10-2020,3394,Sam's Club
+21-12-2020,-3696,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+04-11-2020,6069,Burlington
+08-01-2020,2800,Harbor Freight Tools
+27-11-2020,-3380,Bargain Hunt
+24-10-2020,-3206,Stanley Korshak (Dallas)
+29-07-2020,3697,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+06-03-2020,2922,"Getz's (Marquette, Michigan)"
+03-02-2020,-3028,"Mack & Dave's Department Store (Huntington, West Virginia)"
+08-07-2020,-1985,Ross Stores
+09-10-2020,-4091,HomeSense
+11-04-2020,6479,"Ruben's (Augusta, Georgia)"
+14-06-2020,3903,HomeGoods
+11-02-2020,5865,"Ruben's (Augusta, Georgia)"
+17-09-2020,5257,"Halls (Kansas City, Missouri)"
+02-10-2020,-3328,"Leader Department Store (Cambridge, Minnesota)"
+04-06-2020,4032,Bargain Hunt
+10-04-2020,-4063,Target
+17-02-2020,5004,Ben Franklin
+28-06-2020,1666,"Murphy's (Stillwater, Oklahoma)"
+22-11-2020,-875,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+18-01-2020,-4514,"Loeb's (Meridian, Mississippi)"
+07-05-2020,5553,"La Epoca (Miami, Florida)"
+23-02-2020,2942,Sam's Club
+18-09-2020,-2035,Ross Stores
+01-02-2020,-2391,Ollie's Bargain Outlet
+14-11-2020,-449,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+10-05-2020,6272,Bi-Mart
+01-07-2020,-4162,"Fords Federated Store (Hamilton, Montana)"
+20-07-2020,-691,Costco
+07-03-2020,5414,Meijer
+25-11-2020,928,National Stores
+24-12-2020,5006,"Fords Federated Store (Hamilton, Montana)"
+28-08-2020,-3381,"Getz's (Marquette, Michigan)"
+09-10-2020,4328,Dollar Tree
+06-02-2020,4479,"Wakefield's (Anniston, Alabama)"
+02-10-2020,-479,Gabe's
+22-07-2020,-219,Treasure Hunt
+11-08-2020,1090,Big Lots
+11-10-2020,-3752,Dd's Discounts
+24-02-2020,-1060,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+25-10-2020,831,Ollie's Bargain Outlet
+10-01-2020,1847,Tuesday Morning
+18-01-2020,4602,Family Dollar
+27-09-2020,5676,"Mack & Dave's Department Store (Huntington, West Virginia)"
+10-12-2020,3316,Roses
+16-03-2020,16,Roses
+12-06-2020,-4825,Burlington
+17-07-2020,-4085,Five Below
+06-04-2020,1454,Bargain Hunt
+06-02-2020,5709,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+09-05-2020,1909,Dirt Cheap
+18-06-2020,5910,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
+09-01-2020,5777,"Flemington Department Store (Flemington, New Jersey)"
+06-04-2020,6292,"Getz's (Marquette, Michigan)"
+22-02-2020,2201,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+16-10-2020,-302,"Jos. Kuhn & Co. (Champaign, Illinois)"
+04-03-2020,2919,Stanley Korshak (Dallas)
+21-04-2020,-3203,"La Epoca (Miami, Florida)"
+09-06-2020,5894,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+01-04-2020,-3143,HomeGoods
+03-09-2020,-1854,Bargain Hunt
+16-11-2020,3864,"Mack & Dave's Department Store (Huntington, West Virginia)"
+04-07-2020,6669,Walmart
+04-09-2020,3266,Tuesday Morning
+19-07-2020,3472,Roses
+03-04-2020,-282,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+20-05-2020,5989,"Wakefield's (Anniston, Alabama)"
+19-03-2020,-4613,"Wakefield's (Anniston, Alabama)"
+16-12-2020,-1277,HomeGoods
+22-08-2020,2455,"Wakefield's (Anniston, Alabama)"
+21-06-2020,6230,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+21-07-2020,-4052,Walmart
+28-03-2020,-1203,"Leader Department Store (Cambridge, Minnesota)"
+04-03-2020,1351,"Fords Federated Store (Hamilton, Montana)"
+13-09-2020,-1111,Treasure Hunt
+27-01-2020,5852,HomeSense
+01-11-2020,-4573,Marshalls
+16-09-2020,1406,"Halls (Kansas City, Missouri)"
+26-06-2020,2940,"Fords Federated Store (Hamilton, Montana)"
+08-03-2020,2204,Ben Franklin
+10-09-2020,-2634,"Fords Federated Store (Hamilton, Montana)"
+26-04-2020,1249,"Loeb's (Meridian, Mississippi)"
+15-02-2020,1174,"McCaulou's Department Store (Lafayette, California)"
+25-09-2020,-138,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+23-12-2020,-4021,Boyds (Philadelphia)
+05-06-2020,-4340,Costco
+01-03-2020,-2465,"Jos. Kuhn & Co. (Champaign, Illinois)"
+22-08-2020,12,Family Dollar
+20-08-2020,-224,HomeGoods
+14-03-2020,-289,The SM Store (Guam — part of a Philippine chain)
+11-07-2020,1241,Stanley Korshak (Dallas)
+25-03-2020,-1105,Renys
+13-12-2020,-971,"Stahlke's (Mora, Minnesota)"
+06-12-2020,-3846,Harbor Freight Tools
+21-09-2020,-4309,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+02-12-2020,-2911,"Weaver's (Lawrence, Kansas)"
+29-05-2020,1551,Burlington
+06-09-2020,-1437,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+07-06-2020,-2506,Five Below
+19-10-2020,-220,Renys
+10-04-2020,5616,"Weaver's (Lawrence, Kansas)"
+24-05-2020,3003,Salary
+16-10-2020,2576,National Stores
+01-09-2020,1453,"Neilson's (Oxford, Mississippi)"
+09-07-2020,6962,Dirt Cheap
+16-07-2020,1862,Nichols Stores (northern and western Louisiana)
+25-07-2020,-3955,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+15-02-2020,5513,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+04-02-2020,2538,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+10-01-2020,1763,Ollie's Bargain Outlet
+16-10-2020,-4900,The SM Store (Guam — part of a Philippine chain)
+07-09-2020,5687,"Weaver's (Lawrence, Kansas)"
+05-05-2020,4416,Bargain Hunt
+08-05-2020,2742,Salary
+05-03-2020,5213,Christmas Tree Shops
+29-05-2020,5017,Costco
+29-07-2020,690,"McCaulou's Department Store (Lafayette, California)"
+24-08-2020,4923,Shirokiya (Honolulu)
+09-08-2020,4823,Shirokiya (Honolulu)
+02-01-2020,1605,"Weaver's (Lawrence, Kansas)"
+13-08-2020,6249,Burlington
+04-12-2020,-4313,Gabe's
+19-09-2020,1129,"Jos. Kuhn & Co. (Champaign, Illinois)"
+17-06-2020,2213,"Fords Federated Store (Hamilton, Montana)"
+30-07-2020,5646,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+01-05-2020,5059,Marshalls
+26-02-2020,-431,"Stahlke's (Mora, Minnesota)"
+04-10-2020,-4646,Gabe's
+21-02-2020,2734,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+01-06-2020,1618,Tuesday Morning
+20-09-2020,-4197,Harbor Freight Tools
+25-10-2020,5377,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+26-12-2020,-3552,T.J. Maxx
+18-01-2020,5584,"Fords Federated Store (Hamilton, Montana)"
+27-11-2020,2247,BJ's Wholesale Club
+02-02-2020,-1159,Bargain Hunt
+10-10-2020,-3853,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+24-03-2020,-4429,"Jos. Kuhn & Co. (Champaign, Illinois)"
+15-07-2020,5226,"Fords Federated Store (Hamilton, Montana)"
+10-03-2020,3277,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+23-09-2020,28,Treasure Hunt
+15-05-2020,5782,"Loeb's (Meridian, Mississippi)"
+24-05-2020,4422,Fred Meyer
+22-02-2020,-100,"Ruben's (Augusta, Georgia)"
+29-11-2020,4276,Bi-Mart
+15-05-2020,1011,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+07-06-2020,-4880,"Getz's (Marquette, Michigan)"
+08-04-2020,-3736,Christmas Tree Shops
+23-03-2020,6244,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+05-08-2020,608,"Murphy's (Stillwater, Oklahoma)"
+16-05-2020,915,Ollie's Bargain Outlet
+15-12-2020,1281,Sam's Club
+10-09-2020,6583,"Wakefield's (Anniston, Alabama)"
+17-09-2020,839,Roses
+29-10-2020,-3245,Tuesday Morning
+03-10-2020,1288,Ross Stores
+23-10-2020,1218,T.J. Maxx
+10-12-2020,3535,Shirokiya (Honolulu)
+30-08-2020,1512,"Ruben's (Augusta, Georgia)"
+24-05-2020,4190,Ollie's Bargain Outlet
+04-05-2020,-4187,Stanley Korshak (Dallas)
+07-12-2020,278,"Stahlke's (Mora, Minnesota)"
+02-01-2020,931,Five Below
+07-03-2020,-4139,T.J. Maxx
+16-07-2020,-4211,"Leader Department Store (Cambridge, Minnesota)"
+19-07-2020,-4880,Salary
+17-07-2020,-136,National Stores
+10-03-2020,1564,Sam's Club
+29-02-2020,4905,Target
+28-09-2020,-954,"Young's Department Store (Middle River, Minnesota)"
+20-12-2020,1039,HomeGoods
+17-02-2020,4290,"Weaver's (Lawrence, Kansas)"
+05-10-2020,-1001,"LaVogue Department Store (Hoquiam, Washington)"
+20-05-2020,-118,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+04-07-2020,-3648,"Murphy's (Stillwater, Oklahoma)"
+29-04-2020,4328,Gabe's
+20-08-2020,-3632,Ross Stores
+23-01-2020,-4790,Costco
+06-04-2020,-3801,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+26-04-2020,3257,Burlington
+09-05-2020,2329,Tuesday Morning
+07-11-2020,-3589,Five Below
+01-10-2020,-2977,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+10-09-2020,5328,Ben Franklin
+05-09-2020,6523,HomeSense
+07-11-2020,5260,BJ's Wholesale Club
+28-09-2020,5118,"Getz's (Marquette, Michigan)"
+09-07-2020,6295,Boyds (Philadelphia)
+27-07-2020,4993,"McCaulou's Department Store (Lafayette, California)"
+08-12-2020,2214,Bi-Mart
+20-03-2020,-36,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+03-09-2020,285,HomeGoods
+15-10-2020,-4096,Walmart
+23-01-2020,-4984,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+18-08-2020,4739,Costco
+11-01-2020,4826,Boyds (Philadelphia)
+17-12-2020,1610,Ross Stores
+04-02-2020,-3315,"Leader Department Store (Cambridge, Minnesota)"
+09-02-2020,-1216,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
+21-12-2020,643,"Flemington Department Store (Flemington, New Jersey)"
+08-10-2020,4394,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+10-06-2020,-870,"Neilson's (Oxford, Mississippi)"
+10-01-2020,-3771,Treasure Hunt
+31-07-2020,4645,The SM Store (Guam — part of a Philippine chain)
+25-03-2020,5121,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+08-10-2020,-112,"Murphy's (Stillwater, Oklahoma)"
+15-02-2020,70,Five Below
+06-09-2020,5291,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+07-08-2020,-3599,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+14-05-2020,6316,"Getz's (Marquette, Michigan)"
+01-09-2020,5804,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+05-09-2020,13,BJ's Wholesale Club
+20-05-2020,5088,"Young's Department Store (Middle River, Minnesota)"
+17-01-2020,6737,Five Below
+22-02-2020,-3160,Sam's Club
+08-10-2020,4173,Dd's Discounts
+05-05-2020,-2844,Ocean State Job Lot
+25-10-2020,211,Costco
+08-08-2020,256,Marshalls
+14-01-2020,3691,Meijer
+10-05-2020,-2043,Treasure Hunt
+01-03-2020,3223,Meijer
+14-04-2020,-4302,"Stahlke's (Mora, Minnesota)"
+22-09-2020,-733,HomeGoods
+07-05-2020,971,"Getz's (Marquette, Michigan)"
+03-08-2020,5107,Family Dollar
+20-01-2020,6655,T.J. Maxx
+14-07-2020,3725,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
+21-11-2020,636,"La Epoca (Miami, Florida)"
+12-06-2020,1781,"McCaulou's Department Store (Lafayette, California)"
+06-08-2020,5311,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+21-05-2020,5782,BJ's Wholesale Club
+27-03-2020,65,"Neilson's (Oxford, Mississippi)"
+15-05-2020,-3496,Sam's Club
+20-02-2020,4620,Fred Meyer
+05-05-2020,1705,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+11-12-2020,-1945,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+06-12-2020,-4977,Fred Meyer
+11-03-2020,-509,HomeGoods
+20-08-2020,-4657,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
+07-01-2020,-4895,Dollar General
+26-11-2020,2348,Christmas Tree Shops
+30-06-2020,6315,Dollar Tree
+17-03-2020,-3913,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+31-08-2020,6425,Costco
+06-06-2020,6326,The SM Store (Guam — part of a Philippine chain)
+20-12-2020,-1435,BJ's Wholesale Club
+22-10-2020,-4037,"La Epoca (Miami, Florida)"
+23-12-2020,-1853,Walmart
+06-12-2020,1896,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+17-01-2020,-1569,"Halls (Kansas City, Missouri)"
+07-03-2020,-2917,"Stahlke's (Mora, Minnesota)"
+21-01-2020,2733,Stanley Korshak (Dallas)
+17-08-2020,1351,Tuesday Morning
+02-06-2020,2324,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+28-06-2020,-4269,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+27-04-2020,3852,Walmart
+05-06-2020,3962,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+04-05-2020,-1303,"Schroeder's (Two Rivers, Wisconsin)"
+19-02-2020,2032,Shirokiya (Honolulu)
+12-04-2020,1597,Walmart
+18-08-2020,-1018,Nichols Stores (northern and western Louisiana)
+26-01-2020,6550,Costco
+15-09-2020,-1085,Marshalls
+19-10-2020,-4086,Harbor Freight Tools
+31-08-2020,4994,"LaVogue Department Store (Hoquiam, Washington)"
+24-07-2020,5094,"Ruben's (Augusta, Georgia)"
+08-03-2020,-3504,"Getz's (Marquette, Michigan)"
+27-06-2020,-4569,Gabe's
+01-03-2020,2285,Roses
+03-12-2020,555,Boyds (Philadelphia)
+25-03-2020,1380,"Jos. Kuhn & Co. (Champaign, Illinois)"
+29-06-2020,4660,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+07-10-2020,-450,"McCaulou's Department Store (Lafayette, California)"
+05-09-2020,4818,"LaVogue Department Store (Hoquiam, Washington)"
+26-11-2020,-2987,Walmart
+15-04-2020,6920,Target
+28-11-2020,-3023,"Neilson's (Oxford, Mississippi)"
+24-10-2020,-4848,Dollar General
+18-03-2020,3264,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+03-11-2020,-4905,"Wakefield's (Anniston, Alabama)"
+28-11-2020,3381,Dollar General
+25-11-2020,2705,Burlington
+25-12-2020,-1163,"Wakefield's (Anniston, Alabama)"
+30-11-2020,4543,"Leader Department Store (Cambridge, Minnesota)"
+18-03-2020,-2959,"Stahlke's (Mora, Minnesota)"
+21-08-2020,6893,BJ's Wholesale Club
+18-09-2020,3879,"Fords Federated Store (Hamilton, Montana)"
+21-03-2020,1131,Fred Meyer
+05-12-2020,4845,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+28-04-2020,311,"Jos. Kuhn & Co. (Champaign, Illinois)"
+21-05-2020,-1265,"Weaver's (Lawrence, Kansas)"
+29-07-2020,-1103,Ocean State Job Lot
+06-07-2020,-3750,"Stahlke's (Mora, Minnesota)"
+01-05-2020,-4968,T.J. Maxx
+12-12-2020,5101,Christmas Tree Shops
+06-04-2020,-2706,Family Dollar
+13-03-2020,4734,Harbor Freight Tools
+23-09-2020,-4202,Dollar Tree
+03-09-2020,1156,Dollar Tree
+23-04-2020,-871,"Schroeder's (Two Rivers, Wisconsin)"
+05-05-2020,3087,"Loeb's (Meridian, Mississippi)"
+23-06-2020,-2405,"Schroeder's (Two Rivers, Wisconsin)"
+26-01-2020,3161,"Flemington Department Store (Flemington, New Jersey)"
+14-02-2020,-1937,Ollie's Bargain Outlet
+22-02-2020,617,"Jos. Kuhn & Co. (Champaign, Illinois)"
+03-02-2020,-27,Nichols Stores (northern and western Louisiana)
+25-12-2020,-1639,Five Below
+14-10-2020,-1424,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+25-04-2020,6031,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+14-09-2020,-4513,Renys
+02-12-2020,1490,"Leader Department Store (Cambridge, Minnesota)"
+07-11-2020,97,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+27-03-2020,-4320,Burlington
+09-06-2020,3468,"McCaulou's Department Store (Lafayette, California)"
+17-03-2020,-4787,BJ's Wholesale Club
+10-07-2020,6226,"Young's Department Store (Middle River, Minnesota)"
+16-05-2020,6487,Dirt Cheap
+05-06-2020,-4104,Dollar General
+14-02-2020,1510,Stanley Korshak (Dallas)
+03-04-2020,6021,Sam's Club
+01-01-2020,1903,Dollar Tree
+16-05-2020,6376,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+22-02-2020,-406,Ben Franklin
+18-07-2020,-1635,"Leader Department Store (Cambridge, Minnesota)"
+19-11-2020,2936,Tuesday Morning
+26-11-2020,3644,Sam's Club
+01-12-2020,2661,"Wakefield's (Anniston, Alabama)"
+24-06-2020,-1938,"LaVogue Department Store (Hoquiam, Washington)"
+16-12-2020,58,Costco
+04-07-2020,-1687,Sam's Club
+26-03-2020,-760,"Flemington Department Store (Flemington, New Jersey)"
+13-11-2020,2139,"Flemington Department Store (Flemington, New Jersey)"
+09-11-2020,-1617,Target
+21-06-2020,-4741,Treasure Hunt
+20-12-2020,-2604,Bargain Hunt
+04-09-2020,-141,Bi-Mart
+07-10-2020,-2515,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+19-04-2020,494,"Wakefield's (Anniston, Alabama)"
+16-04-2020,2194,Shirokiya (Honolulu)
+31-01-2020,-4495,Ocean State Job Lot
+17-08-2020,776,"Young's Department Store (Middle River, Minnesota)"
+19-12-2020,-4049,"Leader Department Store (Cambridge, Minnesota)"
+06-02-2020,792,Big Lots
+23-10-2020,-4968,Dollar Tree
+02-09-2020,3622,Burlington
+12-05-2020,-587,Salary
+18-12-2020,3161,"Leader Department Store (Cambridge, Minnesota)"
+15-01-2020,5817,"Loeb's (Meridian, Mississippi)"
+08-02-2020,3309,Dollar General
+01-11-2020,3674,Family Dollar
+26-02-2020,1930,T.J. Maxx
+08-01-2020,-4246,Nichols Stores (northern and western Louisiana)
+27-07-2020,-643,"Flemington Department Store (Flemington, New Jersey)"
+09-04-2020,6041,Dirt Cheap
+29-08-2020,4956,"McCaulou's Department Store (Lafayette, California)"
+27-02-2020,-4762,"Weaver's (Lawrence, Kansas)"
+30-10-2020,-1394,The SM Store (Guam — part of a Philippine chain)
+23-11-2020,1575,Five Below
+02-05-2020,6360,Salary
+18-05-2020,-1459,"Halls (Kansas City, Missouri)"
+04-04-2020,1477,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+18-01-2020,4652,Stanley Korshak (Dallas)
+22-03-2020,6461,"Getz's (Marquette, Michigan)"
+18-07-2020,-1098,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+17-10-2020,-4219,"Jos. Kuhn & Co. (Champaign, Illinois)"
+21-08-2020,1559,Stanley Korshak (Dallas)
+14-09-2020,-1502,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+25-05-2020,-2230,Shirokiya (Honolulu)
+29-05-2020,2368,Stanley Korshak (Dallas)
+24-03-2020,276,"Murphy's (Stillwater, Oklahoma)"
+17-10-2020,-1194,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+03-09-2020,6854,"Mack & Dave's Department Store (Huntington, West Virginia)"
+01-01-2020,-1323,"Murphy's (Stillwater, Oklahoma)"
+23-06-2020,4467,Target
+28-02-2020,6170,Shirokiya (Honolulu)
+26-07-2020,3812,Boyds (Philadelphia)
+21-02-2020,-4821,"Wakefield's (Anniston, Alabama)"
+16-07-2020,5890,"Halls (Kansas City, Missouri)"
+15-02-2020,4703,Ben Franklin
+30-03-2020,-1735,T.J. Maxx
+29-08-2020,2820,"Getz's (Marquette, Michigan)"
+15-08-2020,4537,Meijer
+23-02-2020,-1369,"Loeb's (Meridian, Mississippi)"
+20-02-2020,2740,Burlington
+06-05-2020,-1209,"Flemington Department Store (Flemington, New Jersey)"
+16-06-2020,2650,"Wakefield's (Anniston, Alabama)"
+29-01-2020,3593,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+26-08-2020,3288,Ross Stores
+30-08-2020,-2855,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+12-11-2020,220,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+11-08-2020,4777,"Loeb's (Meridian, Mississippi)"
+26-03-2020,6393,Shirokiya (Honolulu)
+20-03-2020,5407,"Getz's (Marquette, Michigan)"
+13-03-2020,3669,Renys
+22-03-2020,2544,"Neilson's (Oxford, Mississippi)"
+29-08-2020,-1027,Christmas Tree Shops
+09-11-2020,-1456,Dollar Tree
+05-02-2020,793,"Wakefield's (Anniston, Alabama)"
+25-11-2020,4098,"Young's Department Store (Middle River, Minnesota)"
+20-01-2020,6877,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+25-03-2020,4071,"Weaver's (Lawrence, Kansas)"
+14-11-2020,-4887,"Murphy's (Stillwater, Oklahoma)"
+16-06-2020,5629,"Murphy's (Stillwater, Oklahoma)"
+07-04-2020,2718,Costco
+02-01-2020,-683,Harbor Freight Tools
+05-10-2020,-3367,"Neilson's (Oxford, Mississippi)"
+31-03-2020,5638,"Leader Department Store (Cambridge, Minnesota)"
+27-05-2020,1546,"Loeb's (Meridian, Mississippi)"
+10-07-2020,-2623,"McCaulou's Department Store (Lafayette, California)"
+04-08-2020,286,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+26-08-2020,5733,Bi-Mart
+05-06-2020,-3377,Ben Franklin
+08-11-2020,2411,Salary
+08-05-2020,3705,"Wakefield's (Anniston, Alabama)"
+25-10-2020,5280,Five Below
+17-10-2020,5626,"Schroeder's (Two Rivers, Wisconsin)"
+08-08-2020,-2932,"Stahlke's (Mora, Minnesota)"
+03-11-2020,4905,Bargain Hunt
+13-03-2020,626,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+08-01-2020,3369,HomeGoods
+25-09-2020,3750,Roses
+16-11-2020,-3780,"Young's Department Store (Middle River, Minnesota)"
+19-08-2020,2648,Bi-Mart
+17-03-2020,-2309,Dirt Cheap
+15-09-2020,3371,Renys
+19-04-2020,490,Treasure Hunt
+22-02-2020,-3470,"Jos. Kuhn & Co. (Champaign, Illinois)"
+05-12-2020,5662,Costco
+14-09-2020,-1979,Tuesday Morning
+16-12-2020,991,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+26-02-2020,-953,T.J. Maxx
+24-06-2020,4017,Walmart
+21-10-2020,-3515,Nichols Stores (northern and western Louisiana)
+25-09-2020,-1572,Renys
+17-08-2020,-3626,Dd's Discounts
+14-05-2020,6366,"Flemington Department Store (Flemington, New Jersey)"
+29-02-2020,1590,Stanley Korshak (Dallas)
+26-02-2020,653,The SM Store (Guam — part of a Philippine chain)
+16-04-2020,4070,Ross Stores
+29-01-2020,5351,Dd's Discounts
+29-12-2020,-2644,Ross Stores
+21-11-2020,3615,"McCaulou's Department Store (Lafayette, California)"
+16-11-2020,1178,Ocean State Job Lot
+24-05-2020,4510,"Fords Federated Store (Hamilton, Montana)"
+11-08-2020,-4289,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+27-12-2020,3311,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+22-06-2020,3733,Treasure Hunt
+15-10-2020,3190,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+23-10-2020,-3633,"Stahlke's (Mora, Minnesota)"
+18-05-2020,6551,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
+15-08-2020,-3029,Big Lots
+16-07-2020,-1648,Marshalls
+14-04-2020,3772,Walmart
+14-12-2020,1990,Dirt Cheap
+22-03-2020,4417,Harbor Freight Tools
+07-08-2020,-686,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+25-08-2020,-2711,Meijer
+30-08-2020,6480,"Young's Department Store (Middle River, Minnesota)"
+14-01-2020,233,"Fords Federated Store (Hamilton, Montana)"
+03-06-2020,4848,"Loeb's (Meridian, Mississippi)"
+21-06-2020,-864,"Ruben's (Augusta, Georgia)"
+06-02-2020,4708,Dollar General
+04-09-2020,-16,"Leader Department Store (Cambridge, Minnesota)"
+29-03-2020,5325,Ben Franklin
+21-05-2020,496,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+14-12-2020,739,"Getz's (Marquette, Michigan)"
+05-07-2020,-1825,Five Below
+18-04-2020,520,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+16-06-2020,5396,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+19-01-2020,-1199,Dollar Tree
+19-01-2020,652,"Weaver's (Lawrence, Kansas)"
+29-05-2020,-2466,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+27-06-2020,2655,Fred Meyer
+01-03-2020,-3284,"McCaulou's Department Store (Lafayette, California)"
+14-07-2020,-970,Christmas Tree Shops
+19-12-2020,2362,T.J. Maxx
+26-07-2020,3820,"Jos. Kuhn & Co. (Champaign, Illinois)"
+18-09-2020,2710,Dollar Tree
+19-09-2020,-4823,HomeSense
+26-06-2020,-4505,Meijer
+03-05-2020,-3238,Meijer
+14-03-2020,3061,Sam's Club
+23-12-2020,6816,T.J. Maxx
+31-10-2020,-453,"Schroeder's (Two Rivers, Wisconsin)"
+23-02-2020,580,Treasure Hunt
+23-04-2020,-247,"La Epoca (Miami, Florida)"
+25-12-2020,6254,HomeSense
+26-04-2020,-931,Tuesday Morning
+03-04-2020,-436,Five Below
+19-03-2020,-20,BJ's Wholesale Club
+06-01-2020,-3719,Bi-Mart
+12-04-2020,-4837,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+24-12-2020,-3953,"Mack & Dave's Department Store (Huntington, West Virginia)"
+23-11-2020,6857,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+02-06-2020,-4932,"Leader Department Store (Cambridge, Minnesota)"
+18-03-2020,5889,"Loeb's (Meridian, Mississippi)"
+27-07-2020,1955,Christmas Tree Shops
+16-08-2020,-4057,Salary
+11-05-2020,-4999,Nichols Stores (northern and western Louisiana)
+24-08-2020,-2405,Bargain Hunt
+12-04-2020,-3721,"Jos. Kuhn & Co. (Champaign, Illinois)"
+13-09-2020,-1042,"Weaver's (Lawrence, Kansas)"
+08-02-2020,2459,"LaVogue Department Store (Hoquiam, Washington)"
+26-09-2020,4121,HomeGoods
+23-11-2020,420,"La Epoca (Miami, Florida)"
+25-06-2020,-3461,Meijer
+04-04-2020,2117,Five Below
+11-04-2020,4506,"Neilson's (Oxford, Mississippi)"
+16-12-2020,1283,Costco
+14-09-2020,-4232,Christmas Tree Shops
+02-09-2020,-1538,Dollar General
+18-07-2020,-457,Ollie's Bargain Outlet
+29-03-2020,3439,Bi-Mart
+07-06-2020,6887,"Jos. Kuhn & Co. (Champaign, Illinois)"
+08-06-2020,4217,Nichols Stores (northern and western Louisiana)
+04-07-2020,-3809,"Ruben's (Augusta, Georgia)"
+07-04-2020,702,Walmart
+30-12-2020,4397,Ollie's Bargain Outlet
+02-08-2020,2075,Bi-Mart
+07-06-2020,-76,"Young's Department Store (Middle River, Minnesota)"
+18-04-2020,6111,Stanley Korshak (Dallas)
+25-09-2020,-4096,Dollar General
+07-09-2020,-4733,BJ's Wholesale Club
+08-09-2020,-254,National Stores
+22-12-2020,4233,Salary
+12-10-2020,676,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+12-01-2020,-3813,"McCaulou's Department Store (Lafayette, California)"
+27-01-2020,5449,Shirokiya (Honolulu)
+08-12-2020,-3256,Roses
+31-07-2020,4374,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+31-08-2020,1400,"Halls (Kansas City, Missouri)"
+01-07-2020,1750,"Wakefield's (Anniston, Alabama)"
+03-06-2020,-2411,"Weaver's (Lawrence, Kansas)"
+19-03-2020,-918,"Mack & Dave's Department Store (Huntington, West Virginia)"
+15-09-2020,1285,Nichols Stores (northern and western Louisiana)
+18-05-2020,3663,Burlington
+29-06-2020,-3871,"McCaulou's Department Store (Lafayette, California)"
+21-06-2020,6575,T.J. Maxx
+01-08-2020,5291,National Stores
+22-11-2020,951,Marshalls
+23-05-2020,-1500,Sam's Club
+22-08-2020,-1869,Nichols Stores (northern and western Louisiana)
+28-02-2020,5088,"Ruben's (Augusta, Georgia)"
+11-11-2020,6862,"Mack & Dave's Department Store (Huntington, West Virginia)"
+18-01-2020,-4389,Five Below
+10-02-2020,-1690,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+19-06-2020,49,Family Dollar
+04-08-2020,1635,Boyds (Philadelphia)
+28-12-2020,1702,Five Below
+06-05-2020,-2079,HomeSense
+09-02-2020,-2336,"LaVogue Department Store (Hoquiam, Washington)"
+20-06-2020,-1106,Sam's Club
+08-11-2020,4336,Ross Stores
+17-09-2020,5580,Christmas Tree Shops
+16-02-2020,-611,Gabe's
+08-02-2020,3396,Dd's Discounts
+20-02-2020,-1291,"Getz's (Marquette, Michigan)"
+13-07-2020,-1081,Ben Franklin
+23-06-2020,6167,Costco
+06-02-2020,-3014,"Young's Department Store (Middle River, Minnesota)"
+16-08-2020,2336,"Flemington Department Store (Flemington, New Jersey)"
+16-08-2020,3580,BJ's Wholesale Club
+11-11-2020,-3741,"Getz's (Marquette, Michigan)"
+07-03-2020,-69,Salary
+28-09-2020,1,"La Epoca (Miami, Florida)"
+25-01-2020,-4807,Nichols Stores (northern and western Louisiana)
+01-10-2020,6822,Dollar Tree
+12-06-2020,1410,"Young's Department Store (Middle River, Minnesota)"
+25-11-2020,-2361,Harbor Freight Tools
+08-10-2020,6979,Fred Meyer
+22-09-2020,5582,Dirt Cheap
+28-04-2020,-89,The SM Store (Guam — part of a Philippine chain)
+21-06-2020,5548,"Leader Department Store (Cambridge, Minnesota)"
+20-11-2020,-1894,National Stores
+18-08-2020,-2202,Ross Stores
+25-05-2020,-4820,"Schroeder's (Two Rivers, Wisconsin)"
+03-04-2020,4184,Five Below
+09-03-2020,-283,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+10-07-2020,-1442,Salary
+09-01-2020,-193,"Fords Federated Store (Hamilton, Montana)"
+25-12-2020,5780,Walmart
+29-07-2020,1043,Roses
+12-11-2020,-1714,Gabe's
+10-08-2020,4814,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+15-07-2020,-1937,Family Dollar
+04-08-2020,-642,Dirt Cheap
+10-04-2020,838,Salary
+05-08-2020,6317,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+01-09-2020,5635,"Leader Department Store (Cambridge, Minnesota)"
+30-04-2020,1930,"Stahlke's (Mora, Minnesota)"
+10-09-2020,-1465,HomeSense
+01-07-2020,3159,Treasure Hunt
+30-08-2020,2550,T.J. Maxx
+27-10-2020,4822,Roses
+12-05-2020,-700,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+31-08-2020,1487,Five Below
+30-05-2020,1587,"LaVogue Department Store (Hoquiam, Washington)"
+28-12-2020,-3061,"Loeb's (Meridian, Mississippi)"
+13-11-2020,5946,The SM Store (Guam — part of a Philippine chain)
+23-08-2020,-4553,Dollar General
+18-06-2020,261,Boyds (Philadelphia)
+05-02-2020,-2330,"Flemington Department Store (Flemington, New Jersey)"
+25-08-2020,1856,Renys
+17-08-2020,6757,Renys
+11-01-2020,-2938,"LaVogue Department Store (Hoquiam, Washington)"
+01-01-2020,2949,Treasure Hunt
+07-10-2020,-3571,HomeSense
+27-01-2020,3905,"Wakefield's (Anniston, Alabama)"
+27-03-2020,1554,"Leader Department Store (Cambridge, Minnesota)"
+02-01-2020,-4634,Dirt Cheap
+07-08-2020,-2082,"Weaver's (Lawrence, Kansas)"
+10-07-2020,1818,BJ's Wholesale Club
+13-01-2020,1840,Dollar General
+10-12-2020,-3599,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+05-11-2020,-1957,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+15-12-2020,-1281,Ben Franklin
+12-10-2020,1633,Dd's Discounts
+07-09-2020,4628,Five Below
+21-04-2020,-4423,Sam's Club
+10-08-2020,-855,HomeGoods
+14-01-2020,-555,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+25-07-2020,-3763,"Young's Department Store (Middle River, Minnesota)"
+07-02-2020,2599,Stanley Korshak (Dallas)
+22-05-2020,-4182,T.J. Maxx
+09-10-2020,5964,Gabe's
+04-04-2020,-71,Target
+03-07-2020,-1408,Renys
+15-12-2020,1163,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+24-01-2020,513,Bargain Hunt
+06-08-2020,4665,Big Lots
+10-10-2020,320,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+18-09-2020,4467,National Stores
+25-04-2020,-327,Costco
+08-04-2020,2030,"Fords Federated Store (Hamilton, Montana)"
+08-10-2020,5478,Christmas Tree Shops
+26-12-2020,-4565,Dd's Discounts
+30-11-2020,5061,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+17-04-2020,719,Bi-Mart
+27-10-2020,1311,Burlington
+26-06-2020,1415,Dd's Discounts
+29-01-2020,-2066,Sam's Club
+08-10-2020,2564,BJ's Wholesale Club
+17-10-2020,158,Ross Stores
+12-10-2020,1872,Nichols Stores (northern and western Louisiana)
+13-08-2020,2052,Roses
+27-11-2020,803,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+02-01-2020,94,HomeGoods
+08-11-2020,6560,Walmart
+03-03-2020,-3193,"Fords Federated Store (Hamilton, Montana)"
+31-07-2020,5704,"Young's Department Store (Middle River, Minnesota)"
+05-11-2020,-3363,Big Lots
+11-07-2020,3192,Tuesday Morning
+30-09-2020,-4126,"McCaulou's Department Store (Lafayette, California)"
+16-10-2020,-4948,Bargain Hunt
+01-04-2020,1565,National Stores
+03-08-2020,6659,Boyds (Philadelphia)
+08-03-2020,-948,Family Dollar
+24-03-2020,4979,"Neilson's (Oxford, Mississippi)"
+08-07-2020,1611,Target
+13-12-2020,3842,Gabe's
+24-01-2020,391,"Jos. Kuhn & Co. (Champaign, Illinois)"
+11-10-2020,-746,The SM Store (Guam — part of a Philippine chain)
+16-09-2020,5561,"Flemington Department Store (Flemington, New Jersey)"
+27-11-2020,-2500,"Stahlke's (Mora, Minnesota)"
+12-04-2020,-4352,Five Below
+14-06-2020,-582,"Young's Department Store (Middle River, Minnesota)"
+20-12-2020,-235,Dollar Tree
+01-03-2020,-4284,Fred Meyer
+30-08-2020,6528,Meijer
+21-02-2020,4851,"Leader Department Store (Cambridge, Minnesota)"
+03-07-2020,759,"Flemington Department Store (Flemington, New Jersey)"
+10-03-2020,4686,"Schroeder's (Two Rivers, Wisconsin)"
+20-09-2020,-3931,T.J. Maxx
+01-12-2020,-3840,"Leader Department Store (Cambridge, Minnesota)"
+27-11-2020,437,"Halls (Kansas City, Missouri)"
+26-10-2020,2676,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+15-09-2020,-2388,Five Below
+30-01-2020,3347,"Schroeder's (Two Rivers, Wisconsin)"
+24-10-2020,-1816,Dirt Cheap
+09-05-2020,3914,HomeSense
+05-04-2020,4686,"Jos. Kuhn & Co. (Champaign, Illinois)"
+22-10-2020,4990,"Flemington Department Store (Flemington, New Jersey)"
+10-09-2020,1044,Roses
+17-01-2020,4643,BJ's Wholesale Club
+12-09-2020,-3112,Stanley Korshak (Dallas)
+27-10-2020,4907,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+16-07-2020,5601,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+18-07-2020,-4696,Ollie's Bargain Outlet
+19-07-2020,6428,"Loeb's (Meridian, Mississippi)"
+14-09-2020,-725,Dollar General
+08-02-2020,-580,Shirokiya (Honolulu)
+18-02-2020,6632,T.J. Maxx
+29-04-2020,-4714,"Schroeder's (Two Rivers, Wisconsin)"
+28-03-2020,4695,Bi-Mart
+29-11-2020,5100,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+12-10-2020,4203,Burlington
+04-02-2020,504,Christmas Tree Shops
+04-11-2020,3964,Dollar Tree
+17-01-2020,-4439,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+19-02-2020,-2753,Nichols Stores (northern and western Louisiana)
+23-01-2020,-668,Family Dollar
+19-09-2020,-1641,Marshalls
+29-10-2020,4636,BJ's Wholesale Club
+05-07-2020,2508,"Wakefield's (Anniston, Alabama)"
+17-10-2020,2813,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+07-11-2020,-2747,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+08-05-2020,-4532,"Halls (Kansas City, Missouri)"
+06-01-2020,-3581,Walmart
+29-12-2020,-4228,Ocean State Job Lot
+24-12-2020,5437,Sam's Club
+11-12-2020,-145,"Murphy's (Stillwater, Oklahoma)"
+04-02-2020,524,Costco
+10-08-2020,-452,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+07-04-2020,-78,"Wakefield's (Anniston, Alabama)"
+26-02-2020,2637,"Fords Federated Store (Hamilton, Montana)"
+07-10-2020,5344,BJ's Wholesale Club
+07-09-2020,-1037,Burlington
+01-06-2020,439,Bi-Mart
+03-01-2020,-4762,"Schroeder's (Two Rivers, Wisconsin)"
+14-01-2020,2111,Renys
+30-10-2020,3314,Marshalls
+13-05-2020,6243,Ocean State Job Lot
+19-08-2020,-1966,T.J. Maxx
+11-08-2020,120,Dirt Cheap
+25-01-2020,5486,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+26-03-2020,-3260,Boyds (Philadelphia)
+27-10-2020,-3196,Roses
+16-05-2020,28,Boyds (Philadelphia)
+30-09-2020,4179,Marshalls
+20-11-2020,-2731,National Stores
+16-12-2020,1909,Target
+14-04-2020,2948,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+24-07-2020,5810,"Murphy's (Stillwater, Oklahoma)"
+17-04-2020,5265,Burlington
+03-09-2020,-2750,Shirokiya (Honolulu)
+21-12-2020,1170,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+12-07-2020,3695,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+13-12-2020,3948,Burlington
+06-08-2020,2887,Harbor Freight Tools
+28-07-2020,-455,"Weaver's (Lawrence, Kansas)"
+27-04-2020,2886,Nichols Stores (northern and western Louisiana)
+07-08-2020,2376,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
+09-11-2020,2655,"LaVogue Department Store (Hoquiam, Washington)"
+13-02-2020,3125,Walmart
+27-05-2020,5913,Christmas Tree Shops
+15-04-2020,-3958,"La Epoca (Miami, Florida)"
+09-08-2020,-2640,Marshalls
+18-05-2020,5402,Salary
+22-02-2020,-3322,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+19-02-2020,-881,"La Epoca (Miami, Florida)"
+05-05-2020,-3588,Salary
+12-04-2020,3277,"Schroeder's (Two Rivers, Wisconsin)"
+18-05-2020,2240,Tuesday Morning
+20-03-2020,4497,Costco
+06-08-2020,1428,Harbor Freight Tools
+07-09-2020,-1441,"Schroeder's (Two Rivers, Wisconsin)"
+21-09-2020,1041,"McCaulou's Department Store (Lafayette, California)"
+20-06-2020,-3400,HomeGoods
+10-02-2020,638,Marshalls
+15-06-2020,-4235,Treasure Hunt
+25-08-2020,2625,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+29-06-2020,5219,Bargain Hunt
+22-10-2020,2927,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+03-02-2020,1867,Dirt Cheap
+23-05-2020,6766,Roses
+10-02-2020,-4106,Renys
+05-05-2020,4842,Nichols Stores (northern and western Louisiana)
+12-01-2020,1837,National Stores
+07-04-2020,-3659,"Halls (Kansas City, Missouri)"
+09-03-2020,3703,Dd's Discounts
+15-06-2020,-940,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
+19-07-2020,5573,Boyds (Philadelphia)
+25-06-2020,1330,"Halls (Kansas City, Missouri)"
+26-06-2020,2483,Stanley Korshak (Dallas)
+13-08-2020,5666,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+15-03-2020,4912,"Loeb's (Meridian, Mississippi)"
+25-03-2020,-3565,Costco
+19-03-2020,-1714,Roses
+30-04-2020,5766,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+16-07-2020,3957,Harbor Freight Tools
+24-03-2020,1509,Marshalls
+17-12-2020,-2079,"Murphy's (Stillwater, Oklahoma)"
+20-01-2020,2141,Tuesday Morning
+16-01-2020,1750,HomeSense
+17-02-2020,4387,"McCaulou's Department Store (Lafayette, California)"
+28-09-2020,2172,Gabe's
+24-12-2020,277,Ross Stores
+29-05-2020,-2047,Roses
+13-12-2020,-151,"Jos. Kuhn & Co. (Champaign, Illinois)"
+29-09-2020,1597,"Weaver's (Lawrence, Kansas)"
+15-07-2020,-734,Bargain Hunt
+15-11-2020,4842,Walmart
+02-04-2020,3779,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+23-08-2020,-2133,Christmas Tree Shops
+03-05-2020,-1527,Target
+12-09-2020,5339,Stanley Korshak (Dallas)
+26-07-2020,-2033,Sam's Club
+15-07-2020,3150,"Getz's (Marquette, Michigan)"
+14-06-2020,589,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+19-06-2020,6584,"Getz's (Marquette, Michigan)"
+17-07-2020,3307,BJ's Wholesale Club
+04-08-2020,-2276,Gabe's
+17-06-2020,4121,Big Lots
+14-10-2020,3075,Dollar Tree
+23-04-2020,1080,"Wakefield's (Anniston, Alabama)"
+09-06-2020,2937,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+25-10-2020,-4107,Fred Meyer
+13-04-2020,331,Costco
+30-01-2020,1364,Walmart
+28-01-2020,-1720,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+10-11-2020,-2932,Target
+22-07-2020,6965,"Jos. Kuhn & Co. (Champaign, Illinois)"
+02-06-2020,79,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+02-07-2020,-3932,HomeSense
+25-05-2020,2869,Family Dollar
+15-11-2020,3991,"Young's Department Store (Middle River, Minnesota)"
+28-06-2020,1439,Roses
+07-06-2020,-3203,Treasure Hunt
+21-03-2020,2286,Nichols Stores (northern and western Louisiana)
+17-03-2020,-1944,Salary
+30-12-2020,-1391,Meijer
+19-09-2020,-1292,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+01-02-2020,6912,Renys
+12-10-2020,6103,Sam's Club
+03-02-2020,-3653,Gabe's
+20-03-2020,4435,Renys
+03-10-2020,-453,Tuesday Morning
+01-03-2020,5000,HomeGoods
+10-05-2020,-4211,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+03-01-2020,5425,Five Below
+22-12-2020,3459,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+09-05-2020,-4597,Tuesday Morning
+01-01-2020,4685,"LaVogue Department Store (Hoquiam, Washington)"
+02-09-2020,-2426,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+28-06-2020,414,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
+25-11-2020,-4237,"Wakefield's (Anniston, Alabama)"
+22-08-2020,-3330,BJ's Wholesale Club
+07-08-2020,3880,Family Dollar
+17-05-2020,4258,"Loeb's (Meridian, Mississippi)"
+28-04-2020,-664,"Neilson's (Oxford, Mississippi)"
+30-07-2020,2385,Ollie's Bargain Outlet
+10-08-2020,5629,Target
+30-05-2020,228,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+06-10-2020,-3750,T.J. Maxx
+06-06-2020,6107,Bargain Hunt
+24-12-2020,4932,BJ's Wholesale Club
+23-04-2020,4549,Nichols Stores (northern and western Louisiana)
+07-01-2020,1490,Renys
+07-01-2020,2983,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+31-10-2020,-4645,Five Below
+14-04-2020,2478,"Halls (Kansas City, Missouri)"
+03-08-2020,2943,Big Lots
+21-11-2020,-3333,Roses
+09-06-2020,-3835,"Fords Federated Store (Hamilton, Montana)"
+24-10-2020,3369,Sam's Club
+03-10-2020,620,Bargain Hunt
+07-08-2020,-1030,The SM Store (Guam — part of a Philippine chain)
+26-06-2020,-2455,Ollie's Bargain Outlet
+26-07-2020,-4804,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+28-08-2020,2312,Roses
+15-10-2020,-490,Target
+17-10-2020,-2505,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
+29-03-2020,5713,Tuesday Morning
+21-04-2020,2936,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+02-12-2020,-3601,"Fords Federated Store (Hamilton, Montana)"
+19-10-2020,5637,Fred Meyer
+18-05-2020,-2078,Renys
+18-03-2020,3506,Costco
+19-07-2020,-2013,Roses
+24-07-2020,2569,"Neilson's (Oxford, Mississippi)"
+06-03-2020,-2020,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+16-11-2020,2104,"Getz's (Marquette, Michigan)"
+02-01-2020,1650,Nichols Stores (northern and western Louisiana)
+17-12-2020,-2775,"Jos. Kuhn & Co. (Champaign, Illinois)"
+24-08-2020,1947,Bi-Mart
+01-10-2020,2720,Ollie's Bargain Outlet
+01-08-2020,-4876,"Leader Department Store (Cambridge, Minnesota)"
+19-07-2020,-445,Ross Stores
+22-02-2020,1196,Treasure Hunt
+26-04-2020,984,Renys
+11-06-2020,6974,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+27-01-2020,-506,National Stores
+10-02-2020,5707,Boyds (Philadelphia)
+13-01-2020,4334,National Stores
+09-02-2020,-4098,"Schroeder's (Two Rivers, Wisconsin)"
+20-10-2020,5562,Gabe's
+29-08-2020,2515,Bi-Mart
+18-06-2020,-3600,Sam's Club
+07-12-2020,1766,Boyds (Philadelphia)
+10-12-2020,6740,"Weaver's (Lawrence, Kansas)"
+12-03-2020,2463,Fred Meyer
+27-08-2020,5346,"Halls (Kansas City, Missouri)"
+06-03-2020,-701,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+14-04-2020,6349,BJ's Wholesale Club
+25-01-2020,6319,The SM Store (Guam — part of a Philippine chain)
+18-04-2020,-4028,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+27-02-2020,-1701,Target
+17-10-2020,817,"Halls (Kansas City, Missouri)"
+09-05-2020,-2693,Dollar General
+04-08-2020,4513,Tuesday Morning
+20-02-2020,5339,Christmas Tree Shops
+15-03-2020,1336,Big Lots
+12-08-2020,6432,"LaVogue Department Store (Hoquiam, Washington)"
+29-01-2020,-1378,"Flemington Department Store (Flemington, New Jersey)"
+14-04-2020,5465,Ross Stores
+13-04-2020,-577,Family Dollar
+22-07-2020,4160,Fred Meyer
+03-01-2020,-4314,Target
+10-06-2020,6461,Ocean State Job Lot
+29-03-2020,951,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+21-03-2020,-3573,Ollie's Bargain Outlet
+13-01-2020,5895,Five Below
+13-01-2020,1875,BJ's Wholesale Club
+24-04-2020,-2447,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+16-06-2020,1940,Five Below
+26-02-2020,-1501,Big Lots
+08-04-2020,-2804,The SM Store (Guam — part of a Philippine chain)
+25-02-2020,2804,Harbor Freight Tools
+09-09-2020,556,Five Below
+29-02-2020,5839,"Flemington Department Store (Flemington, New Jersey)"
+03-10-2020,-4431,National Stores
+18-08-2020,2235,Costco
+17-01-2020,5338,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+13-06-2020,-2041,Dollar General
+29-03-2020,5484,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+28-11-2020,2009,Family Dollar
+03-03-2020,-3380,Sam's Club
+23-08-2020,3980,Dirt Cheap
+25-06-2020,3087,HomeGoods
+10-09-2020,-3285,Dd's Discounts
+28-03-2020,-1875,Renys
+22-10-2020,-3103,"Fords Federated Store (Hamilton, Montana)"
+04-06-2020,1257,"Schroeder's (Two Rivers, Wisconsin)"
+24-02-2020,493,"Loeb's (Meridian, Mississippi)"
+03-09-2020,-4771,Walmart
+15-07-2020,1452,"Weaver's (Lawrence, Kansas)"
+26-07-2020,-2718,"McCaulou's Department Store (Lafayette, California)"
+17-06-2020,-3253,Christmas Tree Shops
+04-01-2020,-3535,"Loeb's (Meridian, Mississippi)"
+29-01-2020,14,Dollar General
+15-03-2020,3381,Ross Stores
+05-08-2020,3944,"Schroeder's (Two Rivers, Wisconsin)"
+23-04-2020,-3563,Renys
+09-02-2020,-1528,Roses
+13-10-2020,3745,"Fords Federated Store (Hamilton, Montana)"
+08-01-2020,6761,The SM Store (Guam — part of a Philippine chain)
+07-03-2020,5837,Sam's Club
+07-10-2020,4735,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+09-05-2020,-4960,National Stores
+28-12-2020,2073,Costco
+08-01-2020,6082,Big Lots
+03-11-2020,-2643,"Flemington Department Store (Flemington, New Jersey)"
+17-11-2020,4090,Ross Stores
+27-05-2020,4738,"Stahlke's (Mora, Minnesota)"
+31-05-2020,5722,"La Epoca (Miami, Florida)"
+26-11-2020,1936,HomeGoods
+10-04-2020,-2717,Christmas Tree Shops
+03-04-2020,6291,Ocean State Job Lot
+09-09-2020,4931,T.J. Maxx
+07-06-2020,-819,"Loeb's (Meridian, Mississippi)"
+01-09-2020,-3156,Dirt Cheap
+10-04-2020,4509,"Ruben's (Augusta, Georgia)"
+26-10-2020,-1965,Walmart
+12-05-2020,2333,Gabe's
+09-08-2020,1354,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+22-06-2020,-4514,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+02-12-2020,-1159,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+03-10-2020,-2266,Roses
+29-01-2020,5736,Ben Franklin
+13-07-2020,6464,Walmart
+23-12-2020,-4999,"La Epoca (Miami, Florida)"
+31-12-2020,3603,Ollie's Bargain Outlet
+03-01-2020,3723,Dollar General
+21-10-2020,-4660,Marshalls
+01-06-2020,2180,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+07-12-2020,-4405,"Getz's (Marquette, Michigan)"
+03-01-2020,-1667,Ollie's Bargain Outlet
+02-01-2020,3614,T.J. Maxx
+01-07-2020,3857,Meijer
+06-02-2020,3878,"Flemington Department Store (Flemington, New Jersey)"
+16-08-2020,-1865,Family Dollar
+20-12-2020,3939,"Getz's (Marquette, Michigan)"
+16-11-2020,2741,Stanley Korshak (Dallas)
+29-05-2020,-3183,Five Below
+29-10-2020,5765,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+28-02-2020,-659,Boyds (Philadelphia)
+15-05-2020,-2837,"Mack & Dave's Department Store (Huntington, West Virginia)"
+07-02-2020,3372,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+09-07-2020,3283,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+27-07-2020,-1638,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
+21-04-2020,-1874,Target
+06-02-2020,5112,Dd's Discounts
+09-11-2020,2044,Marshalls
+23-06-2020,4215,"Stahlke's (Mora, Minnesota)"
+10-03-2020,-3752,"Weaver's (Lawrence, Kansas)"
+05-10-2020,5644,Roses
+01-11-2020,6488,"Schroeder's (Two Rivers, Wisconsin)"
+01-08-2020,-2519,"Stahlke's (Mora, Minnesota)"
+26-07-2020,-3111,"Mack & Dave's Department Store (Huntington, West Virginia)"
+04-12-2020,-1840,Fred Meyer
+01-08-2020,254,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+31-08-2020,-342,"Jos. Kuhn & Co. (Champaign, Illinois)"
+25-11-2020,-3104,Walmart
+25-04-2020,1804,Big Lots
+14-03-2020,1877,Harbor Freight Tools
+15-10-2020,243,Ollie's Bargain Outlet
+27-01-2020,2182,Big Lots
+25-07-2020,265,Roses
+18-04-2020,2745,"Flemington Department Store (Flemington, New Jersey)"
+27-05-2020,-1743,Bi-Mart
+05-04-2020,5603,Christmas Tree Shops
+21-08-2020,49,"Stahlke's (Mora, Minnesota)"
+23-09-2020,2533,Fred Meyer
+09-02-2020,1450,"Stahlke's (Mora, Minnesota)"
+26-11-2020,1541,T.J. Maxx
+08-10-2020,4341,"Wakefield's (Anniston, Alabama)"
+18-01-2020,4734,Shirokiya (Honolulu)
+30-01-2020,-419,"Wakefield's (Anniston, Alabama)"
+05-12-2020,6823,Harbor Freight Tools
+28-06-2020,-4725,Bargain Hunt
+29-08-2020,6015,Sam's Club
+03-09-2020,-4209,"Stahlke's (Mora, Minnesota)"
+17-06-2020,3621,"Leader Department Store (Cambridge, Minnesota)"
+10-07-2020,-1714,"Murphy's (Stillwater, Oklahoma)"
+22-02-2020,-179,Dd's Discounts
+12-12-2020,3233,"Leader Department Store (Cambridge, Minnesota)"
+18-02-2020,4001,"Jos. Kuhn & Co. (Champaign, Illinois)"
+11-09-2020,6955,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+19-10-2020,4853,"Schroeder's (Two Rivers, Wisconsin)"
+12-01-2020,286,Dollar General
+17-09-2020,5652,Ben Franklin
+12-06-2020,-1278,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+17-08-2020,51,"Wakefield's (Anniston, Alabama)"
+13-06-2020,2533,Target
+19-01-2020,4565,"Jos. Kuhn & Co. (Champaign, Illinois)"
+18-03-2020,-4962,"Jos. Kuhn & Co. (Champaign, Illinois)"
+12-01-2020,1173,"Fords Federated Store (Hamilton, Montana)"
+09-11-2020,2562,"Loeb's (Meridian, Mississippi)"
+26-04-2020,-346,"Getz's (Marquette, Michigan)"
+11-10-2020,3010,T.J. Maxx
+25-10-2020,6650,"Schroeder's (Two Rivers, Wisconsin)"
+10-03-2020,5044,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+01-04-2020,-2361,"LaVogue Department Store (Hoquiam, Washington)"
+01-05-2020,-665,Shirokiya (Honolulu)
+14-06-2020,-3612,"Halls (Kansas City, Missouri)"
+24-08-2020,1847,Meijer
+08-01-2020,-3074,HomeGoods
+03-12-2020,834,Marshalls
+17-07-2020,-4648,Dirt Cheap
+23-04-2020,-4818,Ben Franklin
+25-02-2020,-2312,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+21-08-2020,-1605,Meijer
+07-02-2020,633,Shirokiya (Honolulu)
+22-10-2020,661,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+29-04-2020,6740,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+23-03-2020,-2717,"Stahlke's (Mora, Minnesota)"
+28-08-2020,-2778,Gabe's
+29-11-2020,5402,"McCaulou's Department Store (Lafayette, California)"
+27-06-2020,2261,Christmas Tree Shops
+27-07-2020,4918,Roses
+19-01-2020,1409,T.J. Maxx
+15-09-2020,-1670,"McCaulou's Department Store (Lafayette, California)"
+05-04-2020,-133,Bargain Hunt
+14-04-2020,6675,The SM Store (Guam — part of a Philippine chain)
+23-11-2020,-302,Ben Franklin
+17-10-2020,-1,"Loeb's (Meridian, Mississippi)"
+03-01-2020,-531,Ollie's Bargain Outlet
+03-01-2020,-100,Sam's Club
+14-05-2020,85,Nichols Stores (northern and western Louisiana)
+10-02-2020,-2422,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+12-09-2020,3667,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+07-01-2020,3847,"Stahlke's (Mora, Minnesota)"
+24-05-2020,1828,Roses
+17-02-2020,4161,Dirt Cheap
+26-03-2020,-4566,HomeSense
+15-07-2020,-1521,Dollar General
+26-01-2020,5405,"Neilson's (Oxford, Mississippi)"
+20-04-2020,-2698,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+07-09-2020,-1488,Meijer
+14-07-2020,6397,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+11-02-2020,-1120,Fred Meyer
+30-07-2020,-1848,Ollie's Bargain Outlet
+09-06-2020,6491,Dollar General
+12-02-2020,1638,Dollar Tree
+22-06-2020,3215,Burlington
+26-08-2020,-2802,Salary
+19-08-2020,-2837,Ben Franklin
+03-09-2020,2265,Shirokiya (Honolulu)
+09-12-2020,-4433,HomeSense
+25-01-2020,-3172,"Halls (Kansas City, Missouri)"
+12-08-2020,3533,"Weaver's (Lawrence, Kansas)"
+19-05-2020,3047,Salary
+11-04-2020,2860,Big Lots
+11-12-2020,-3229,Five Below
+28-11-2020,1438,Dirt Cheap
+22-10-2020,-4986,Roses
+20-12-2020,-3535,National Stores
+01-03-2020,4559,Burlington
+22-03-2020,-4591,"Wakefield's (Anniston, Alabama)"
+16-10-2020,-372,Bi-Mart
+14-11-2020,-2687,"Jos. Kuhn & Co. (Champaign, Illinois)"
+19-12-2020,-4664,Stanley Korshak (Dallas)
+17-12-2020,1541,"Flemington Department Store (Flemington, New Jersey)"
+14-03-2020,4394,The SM Store (Guam — part of a Philippine chain)
+09-02-2020,-4620,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+15-01-2020,353,"Flemington Department Store (Flemington, New Jersey)"
+30-03-2020,848,Costco
+15-02-2020,1499,National Stores
+31-01-2020,6787,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+14-08-2020,6970,Roses
+21-04-2020,2155,Ollie's Bargain Outlet
+09-03-2020,-4694,Big Lots
+18-12-2020,3398,HomeGoods
+08-09-2020,6170,Family Dollar
+29-05-2020,4559,"Neilson's (Oxford, Mississippi)"
+18-03-2020,-3118,Sam's Club
+10-02-2020,-4006,"Ruben's (Augusta, Georgia)"
+07-03-2020,6005,Big Lots
+15-07-2020,-2245,Ollie's Bargain Outlet
+29-01-2020,-2101,"Mack & Dave's Department Store (Huntington, West Virginia)"
+28-07-2020,-4288,Renys
+06-03-2020,18,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+31-03-2020,2784,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+08-01-2020,-2994,"LaVogue Department Store (Hoquiam, Washington)"
+17-12-2020,-1748,Target
+14-10-2020,-1764,"Murphy's (Stillwater, Oklahoma)"
+13-03-2020,167,"Jos. Kuhn & Co. (Champaign, Illinois)"
+14-05-2020,-4801,"McCaulou's Department Store (Lafayette, California)"
+19-06-2020,6077,Dollar Tree
+06-03-2020,-4901,HomeSense
+30-03-2020,-4028,"Leader Department Store (Cambridge, Minnesota)"
+10-11-2020,-4265,"Young's Department Store (Middle River, Minnesota)"
+26-04-2020,4792,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+28-02-2020,3871,"Ruben's (Augusta, Georgia)"
+10-05-2020,2923,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+20-05-2020,1025,"Wakefield's (Anniston, Alabama)"
+25-03-2020,3871,Dollar Tree
+18-09-2020,5283,Tuesday Morning
+14-07-2020,-133,Ben Franklin
+24-12-2020,-4166,Ross Stores
+01-04-2020,1688,Meijer
+04-12-2020,5796,Nichols Stores (northern and western Louisiana)
+27-05-2020,2797,Target
+10-10-2020,-2195,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
+04-09-2020,3968,"Ruben's (Augusta, Georgia)"
+27-06-2020,-2281,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+02-05-2020,-1740,"Mack & Dave's Department Store (Huntington, West Virginia)"
+18-10-2020,-3767,BJ's Wholesale Club
+16-04-2020,1250,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+11-03-2020,-4099,Dollar Tree
+18-10-2020,-2744,"Jos. Kuhn & Co. (Champaign, Illinois)"
+11-05-2020,-1398,Tuesday Morning
+05-02-2020,1406,BJ's Wholesale Club
+13-06-2020,-4969,"Loeb's (Meridian, Mississippi)"
+17-12-2020,-1987,"Neilson's (Oxford, Mississippi)"
+06-03-2020,5732,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+05-08-2020,-4528,Ollie's Bargain Outlet
+21-03-2020,1510,"Young's Department Store (Middle River, Minnesota)"
+07-02-2020,-647,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+26-12-2020,1963,Renys
+09-10-2020,6163,Big Lots
+21-09-2020,5083,"McCaulou's Department Store (Lafayette, California)"
+13-05-2020,3350,"Leader Department Store (Cambridge, Minnesota)"
+05-11-2020,6754,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+06-12-2020,-811,Dollar General
+18-10-2020,-1695,"Stahlke's (Mora, Minnesota)"
+01-04-2020,3487,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+31-07-2020,-4484,Big Lots
+20-04-2020,3949,Fred Meyer
+27-06-2020,4900,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+22-10-2020,1325,Costco
+25-01-2020,-3775,Gabe's
+09-11-2020,-4675,"Halls (Kansas City, Missouri)"
+13-05-2020,-1001,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+10-03-2020,-3510,Fred Meyer
+24-05-2020,4709,BJ's Wholesale Club
+02-08-2020,1605,Shirokiya (Honolulu)
+22-10-2020,2961,Bi-Mart
+03-01-2020,4387,Bargain Hunt
+21-09-2020,5327,Fred Meyer
+12-04-2020,1365,Marshalls
+12-08-2020,4481,Bi-Mart
+17-09-2020,685,Ocean State Job Lot
+24-01-2020,3155,Ross Stores
+21-01-2020,1874,Roses
+14-07-2020,2630,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+13-03-2020,1695,"LaVogue Department Store (Hoquiam, Washington)"
+11-09-2020,860,Dollar Tree
+02-03-2020,1143,Roses
+10-06-2020,-3765,Costco
+26-12-2020,4304,Ross Stores
+21-01-2020,-1954,Bargain Hunt
+12-09-2020,385,Burlington
+29-10-2020,-3093,"Neilson's (Oxford, Mississippi)"
+14-12-2020,-2578,"Leader Department Store (Cambridge, Minnesota)"
+13-03-2020,6067,Five Below
+04-10-2020,1016,Treasure Hunt
+23-09-2020,1830,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+04-02-2020,-4299,"Stahlke's (Mora, Minnesota)"
+18-12-2020,-2896,Ben Franklin
+14-08-2020,5591,"McCaulou's Department Store (Lafayette, California)"
+20-05-2020,-3986,Ross Stores
+29-06-2020,-263,"Halls (Kansas City, Missouri)"
+26-10-2020,-227,Christmas Tree Shops
+23-01-2020,-627,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+07-04-2020,-2348,Costco
+24-11-2020,937,"Schroeder's (Two Rivers, Wisconsin)"
+12-07-2020,-3582,Boyds (Philadelphia)
+21-08-2020,5136,Gabe's
+28-04-2020,5802,Big Lots
+11-09-2020,730,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+23-05-2020,6772,Dirt Cheap
+27-03-2020,806,Roses
+17-06-2020,1172,"Rubensteins (formerly Rubenstein Brothers) (New Orleans, Louisiana)"
+10-10-2020,-315,"Ruben's (Augusta, Georgia)"
+20-12-2020,5099,"Halls (Kansas City, Missouri)"
+14-03-2020,2203,"Tomah Cash Mercantile (Tomah, Wisconsin)"
+01-02-2020,-47,Five Below
+25-04-2020,5608,Target
+23-08-2020,664,"Murphy's (Stillwater, Oklahoma)"
+24-04-2020,6979,Dirt Cheap
+18-07-2020,-734,"Stahlke's (Mora, Minnesota)"
+19-09-2020,4675,Harbor Freight Tools
+01-04-2020,-4975,"Scott Seale's Rask Fine Jewelry and MAX Clothing Stores (Denver, Colorado)"
+30-07-2020,5638,Family Dollar
+25-09-2020,-3025,Marshalls
+13-02-2020,2817,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+20-12-2020,-4555,Nichols Stores (northern and western Louisiana)
+01-04-2020,4605,Stanley Korshak (Dallas)
+20-10-2020,2529,"Dunham's Department Store (Wellsboro, Pennsylvania)"
+11-01-2020,4021,Target
+26-02-2020,-1747,Ben Franklin
+01-03-2020,5106,Treasure Hunt
+24-01-2020,-3586,Ben Franklin
+06-01-2020,-3,Dirt Cheap
+03-05-2020,112,"Jos. Kuhn & Co. (Champaign, Illinois)"
+20-11-2020,791,"Wakefield's (Anniston, Alabama)"
+23-05-2020,1416,"Wakefield's (Anniston, Alabama)"
+21-04-2020,-1887,Shirokiya (Honolulu)
+07-07-2020,-2419,Dollar General
+05-07-2020,-4828,Shirokiya (Honolulu)
+08-05-2020,-3238,"Halls (Kansas City, Missouri)"
+26-09-2020,5782,Big Lots
+24-08-2020,-1679,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+03-07-2020,516,Dollar Tree
+23-03-2020,2719,Shirokiya (Honolulu)
+22-03-2020,2471,"Neighborhood Goods (Plano, Austin in Texas; Chelsea Market, New York City)"
+15-12-2020,-1264,"Loeb's (Meridian, Mississippi)"
+15-05-2020,2078,Fred Meyer
+11-06-2020,5228,"David M. Brian (Walnut Creek and Greenbrae, California) owned by McCaulou's"
+17-03-2020,-4932,Dollar General
+20-08-2020,-3810,Walmart
+24-02-2020,5710,"Neilson's (Oxford, Mississippi)"
+08-11-2020,-918,The SM Store (Guam — part of a Philippine chain)
+16-12-2020,2610,"Murphy's (Stillwater, Oklahoma)"
+08-12-2020,2868,"Getz's (Marquette, Michigan)"
+30-08-2020,-3582,Big Lots
+12-06-2020,-1967,Roses
+05-06-2020,-2469,Bargain Hunt
+03-08-2020,-1763,"Gus Mayer (Birmingham, Alabama and Nashville, Tennessee)"
+14-12-2020,651,"Reed's (Columbus, Starkville and Tupelo, Mississippi)"
+13-01-2020,1659,Sam's Club
+24-08-2020,5659,Harbor Freight Tools
