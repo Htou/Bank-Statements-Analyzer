@@ -9,6 +9,7 @@ public class BankStatementProcessor {
     public BankStatementProcessor(final List<BankTransaction> bankTransactions) {
         this.bankTransactions = bankTransactions;
     }
+
     public double calculateTotalInMonth(final Month month) {
         double total = 0;
 
