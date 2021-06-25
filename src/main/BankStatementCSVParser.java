@@ -28,8 +28,8 @@ public class BankStatementCSVParser implements BankStatementParser {
 
 
     @Override
-    public List<BankTransaction> parseLinesFrom(final List<String> lines) {
-        final List<BankTransaction> bankTransactions = new ArrayList<BankTransaction>();
+    public ArrayList<BankTransaction> parseLinesFrom(final List<String> lines) {
+        final ArrayList<BankTransaction> bankTransactions = new ArrayList<BankTransaction>();
 
         for (final String line : lines) {
             bankTransactions.add(parseFrom(line));
