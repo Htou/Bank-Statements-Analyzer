@@ -27,7 +27,7 @@ public class BankStatementAnalyzer {
         System.out.println("The total for all transactions is " + bankStatementProcessor.calculateTotalAmount());
         System.out.println("The total of highest transaction between Februari and July is " + bankStatementProcessor.calculateMaximumFromRange(Month.FEBRUARY, Month.JULY));
         System.out.println("");
-        System.out.println("The total of highest transaction between of each month between January and March is: ");
+        System.out.println("The total of highest transaction between of each month between January and May is: ");
 
         Month startMonth = Month.JANUARY;
         Month endMonth = Month.MAY;
@@ -39,6 +39,8 @@ public class BankStatementAnalyzer {
 
             currentMonth = currentMonth.plus(1);
         }
+
+
     }
 
     public void analyze(final BankStatementParser bankStatementParser) {
