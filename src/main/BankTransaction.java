@@ -62,6 +62,8 @@ public class BankTransaction {
         return Objects.hash(date, amount, description);
     }
 
+
+    // pattern unused
     public Notification validate() {
         final Notification notification = new Notification();
 
