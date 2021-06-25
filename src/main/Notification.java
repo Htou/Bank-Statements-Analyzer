@@ -21,13 +21,4 @@ public class Notification {
         return this.errors;
     }
 
-    public Notification validate() {
-        final Notification notification = new Notification();
-
-        if (this.description.length() > 100) {
-            notification.addError("The description is too long");
-        }
-
-
-    }
 }
