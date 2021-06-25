@@ -1,5 +1,6 @@
 package main;
 
+import java.io.IOException;
 import java.time.Month;
 import java.util.List;
 
@@ -43,10 +44,13 @@ public class BankStatementAnalyzer {
 
     }
 
-    public void analyze(final BankStatementParser bankStatementParser) {
+
+
+    public void analyze(final BankStatementParser bankStatementParser, final Exporter exporter) {
         final List<String> lines = BankStatementResources.getResourcesLinesList();
         final List<BankTransaction> bankTransactions = bankStatementParser.parseLinesFrom(lines);
         final BankStatementProcessor bankStatementProcessor = new BankStatementProcessor(bankTransactions);
+
 
         collectSummary(bankStatementProcessor);
     }
