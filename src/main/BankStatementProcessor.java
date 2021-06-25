@@ -13,6 +13,16 @@ public class BankStatementProcessor {
         this.bankTransactions = bankTransactions;
     }
 
+    public double summarizeTransactions (final BankTransactionSummarizer bankTransactionSummarizer) {
+        double result = 0;
+
+        for (final BankTransaction bankTransaction : bankTransactions) {
+            result = bankTransactionSummarizer.summarize(result, bankTransaction);
+        }
+
+        return result;
+    }
+
     public double calculateTotalInMonth(final Month month) {
         double total = 0;
 
@@ -86,7 +96,7 @@ public class BankStatementProcessor {
         return maximumTransactionOfEachMonth;
     }
 
-    public List<BankTransaction> findTransactions(final BankTransactionFilter bankTransactionFilter) {
+    public ArrayList<BankTransaction> findTransactions(final BankTransactionFilter bankTransactionFilter) {
         final ArrayList<BankTransaction> result = new ArrayList<BankTransaction>();
 
         for (final BankTransaction bankTransaction : bankTransactions) {
