@@ -1,7 +1,7 @@
 package main;
 
 public interface Exporter {
-    String export(SummaryStatistics summaryStatistics );
+    String export(final SummaryStatistics summaryStatistics );
 }
 
 
